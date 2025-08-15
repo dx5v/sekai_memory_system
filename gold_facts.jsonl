@@ -1,0 +1,98 @@
+{"id":"F001","type":"WM","predicate":"evaluates","subjects":["Byleth Eisner"],"valid_from":1,"valid_to":null,"canonical_fact":"Byleth Eisner evaluates the office ecosystem at Garreg Mach Corp"}
+{"id":"F002","type":"WM","predicate":"noted","subjects":["Dimitri","Sylvain","Felix"],"valid_from":1,"valid_to":null,"canonical_fact":"Dimitri, Sylvain, and Felix are noted as key players at Garreg Mach Corp"}
+{"id":"F003","type":"IC","predicate":"shares intimacy","subjects":["Sylvain"],"objects":["Annette"],"valid_from":2,"valid_to":null,"canonical_fact":"Sylvain and Annette share an easy intimacy"}
+{"id":"F004","type":"IC","predicate":"seeks_help","subjects":["Byleth"],"objects":["Dimitri"],"valid_from":3,"valid_to":null,"canonical_fact":"Byleth seeks help from Dimitri to create a personal connection"}
+{"id":"F005","type":"IC","predicate":"engages","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":4,"valid_to":null,"canonical_fact":"Byleth engages Sylvain with witty banter and compliments"}
+{"id":"F006","type":"IC","predicate":"intrigued_by","subjects":["Sylvain"],"objects":["Byleth"],"valid_from":4,"valid_to":null,"canonical_fact":"Sylvain is intrigued by Byleth's attention"}
+{"id":"F007","type":"IC","predicate":"offers assistance","subjects":["Byleth"],"objects":["Dimitri"],"valid_from":5,"valid_to":null,"canonical_fact":"Byleth offers assistance to Dimitri"}
+{"id":"F008","type":"WM","predicate":"office empties","subjects":["Office"],"valid_from":5,"valid_to":null,"canonical_fact":"The office slowly empties, leaving Dimitri focused on his work"}
+{"id":"F009","type":"IC","predicate":"escalates_tension","subjects":["Byleth"],"objects":["Dimitri"],"valid_from":6,"valid_to":null,"canonical_fact":"Byleth escalates tension with Dimitri through deliberate actions"}
+{"id":"F010","type":"IC","predicate":"focuses_on","subjects":["Dimitri"],"objects":["Byleth"],"valid_from":6,"valid_to":null,"canonical_fact":"Dimitri's focus begins to waver towards Byleth"}
+{"id":"F011","type":"IC","predicate":"initiates_kiss","subjects":["Byleth"],"objects":["Dimitri"],"valid_from":7,"valid_to":null,"canonical_fact":"Byleth initiates a kiss with Dimitri"}
+{"id":"F012","type":"IC","predicate":"returns_kiss","subjects":["Dimitri"],"objects":["Byleth"],"valid_from":7,"valid_to":null,"canonical_fact":"Dimitri returns Byleth's kiss with fervor"}
+{"id":"F013","type":"WM","predicate":"affair_ignites","subjects":["Corporate Building"],"valid_from":7,"valid_to":null,"canonical_fact":"An affair ignites in the corporate building after dark"}
+{"id":"F014","type":"WM","predicate":"leaves_undetected","subjects":["Byleth"],"valid_from":8,"valid_to":null,"canonical_fact":"Byleth leaves Dimitri's office undetected"}
+{"id":"F015","type":"IC","predicate":"notices","subjects":["Dedue"],"objects":["Byleth"],"valid_from":9,"valid_to":null,"canonical_fact":"Dedue notices Byleth's disheveled state"}
+{"id":"F016","type":"C2U","predicate":"feels seen","subjects":["Byleth"],"valid_from":9,"valid_to":null,"canonical_fact":"Byleth feels seen by the User"}
+{"id":"F017","type":"IC","predicate":"confirms mutual feelings","subjects":["Dimitri"],"objects":["Byleth"],"valid_from":10,"valid_to":null,"canonical_fact":"Dimitri confirms the intensity of their encounter with Byleth was mutual and not regretted"}
+{"id":"F018","type":"IC","predicate":"solidifies connection","subjects":["Byleth"],"objects":["Dimitri"],"valid_from":10,"valid_to":null,"canonical_fact":"Byleth solidifies the connection with Dimitri while maintaining control over the narrative"}
+{"id":"F019","type":"IC","predicate":"initiates_conversation","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":11,"valid_to":null,"canonical_fact":"Byleth initiates a playful conversation with Sylvain"}
+{"id":"F020","type":"IC","predicate":"exchanges_contact_information","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":11,"valid_to":null,"canonical_fact":"Byleth exchanges contact information with Sylvain"}
+{"id":"F021","type":"IC","predicate":"shows_affection","subjects":["Annette"],"objects":["Byleth"],"valid_from":12,"valid_to":null,"canonical_fact":"Annette shows genuine affection towards Byleth"}
+{"id":"F022","type":"IC","predicate":"smiles_at","subjects":["Byleth"],"objects":["Annette"],"valid_from":12,"valid_to":null,"canonical_fact":"Byleth offers Annette a bright, friendly smile"}
+{"id":"F023","type":"WM","predicate":"essential","subjects":["Mask"],"valid_from":12,"valid_to":null,"canonical_fact":"The mask is essential"}
+{"id":"F024","type":"WM","predicate":"sharpens_resolve","subjects":["Byleth"],"valid_from":12,"valid_to":null,"canonical_fact":"Witnessing their bond sharpens Byleth's resolve"}
+{"id":"F025","type":"IC","predicate":"sends_suggestive_text","subjects":["Dimitri"],"objects":["Byleth"],"valid_from":13,"valid_to":null,"canonical_fact":"Dimitri sends a suggestive text to Byleth"}
+{"id":"F026","type":"IC","predicate":"sends_suggestive_text","subjects":["Sylvain"],"objects":["Byleth"],"valid_from":13,"valid_to":null,"canonical_fact":"Sylvain sends a suggestive text to Byleth"}
+{"id":"F027","type":"WM","predicate":"manages_secrets","subjects":["Byleth"],"valid_from":13,"valid_to":null,"canonical_fact":"Byleth's phone is a hub of dangerous secrets needing constant management"}
+{"id":"F028","type":"IC","predicate":"scrutinizes","subjects":["Felix"],"objects":["Byleth"],"valid_from":14,"valid_to":null,"canonical_fact":"Felix scrutinizes Byleth's actions"}
+{"id":"F029","type":"IC","predicate":"realizes scrutiny","subjects":["Byleth"],"objects":["Felix"],"valid_from":14,"valid_to":null,"canonical_fact":"Byleth realizes they are under scrutiny from Felix"}
+{"id":"F030","type":"IC","predicate":"invites","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":15,"valid_to":null,"canonical_fact":"Byleth invites Sylvain for drinks at 'The Lost Saint'"}
+{"id":"F031","type":"WM","predicate":"chosen_for_secrecy","subjects":["The Lost Saint"],"valid_from":15,"valid_to":null,"canonical_fact":"The Lost Saint is chosen for its secrecy"}
+{"id":"F032","type":"IC","predicate":"deceives","subjects":["Byleth"],"objects":["Dimitri"],"valid_from":16,"valid_to":null,"canonical_fact":"Byleth deceives Dimitri with a fictional family issue"}
+{"id":"F033","type":"IC","predicate":"plans date","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":16,"valid_to":null,"canonical_fact":"Byleth plans a date with Sylvain"}
+{"id":"F034","type":"IC","predicate":"experiences chemistry with","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":17,"valid_to":null,"canonical_fact":"Byleth experiences intense chemistry with Sylvain"}
+{"id":"F035","type":"IC","predicate":"engages in flirtation with","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":17,"valid_to":null,"canonical_fact":"Byleth engages in flirtation with Sylvain"}
+{"id":"F036","type":"IC","predicate":"has a playful dynamic with","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":17,"valid_to":null,"canonical_fact":"Byleth has a playful and adventurous dynamic with Sylvain"}
+{"id":"F037","type":"IC","predicate":"agrees_to_secrecy","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":18,"valid_to":null,"canonical_fact":"Byleth secures Sylvain's agreement to keep the matter secret"}
+{"id":"F038","type":"IC","predicate":"captivated_by_secrecy","subjects":["Sylvain"],"objects":["Byleth"],"valid_from":18,"valid_to":null,"canonical_fact":"Sylvain is captivated by the illicit nature of the secret with Byleth"}
+{"id":"F039","type":"IC","predicate":"coordinates_secret_departure","subjects":["Sylvain"],"objects":["Unnamed Partner"],"valid_from":19,"valid_to":null,"canonical_fact":"Sylvain and an unnamed partner coordinate a secret departure from a hotel."}
+{"id":"F040","type":"IC","predicate":"confides","subjects":["Annette"],"objects":["Byleth"],"valid_from":20,"valid_to":null,"canonical_fact":"Annette confides in Byleth about her happiness and Sylvain's attentiveness"}
+{"id":"F041","type":"IC","predicate":"attentive_to","subjects":["Sylvain"],"objects":["Annette"],"valid_from":20,"valid_to":null,"canonical_fact":"Sylvain has been attentive to Annette"}
+{"id":"F042","type":"IC","predicate":"recognizes_irony","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":20,"valid_to":null,"canonical_fact":"Byleth recognizes the irony in Sylvain's attentiveness"}
+{"id":"F043","type":"IC","predicate":"trusts","subjects":["Annette"],"objects":["Byleth"],"valid_from":21,"valid_to":null,"canonical_fact":"Annette trusts Byleth as a friend and shares personal details"}
+{"id":"F044","type":"IC","predicate":"trusts","subjects":["Annette"],"objects":["Byleth"],"valid_from":22,"valid_to":null,"canonical_fact":"Annette trusts Byleth"}
+{"id":"F045","type":"IC","predicate":"supports","subjects":["Byleth"],"objects":["Annette"],"valid_from":22,"valid_to":null,"canonical_fact":"Byleth supports Annette with empathy"}
+{"id":"F046","type":"IC","predicate":"invites","subjects":["Dimitri"],"objects":["Byleth"],"valid_from":23,"valid_to":null,"canonical_fact":"Dimitri invites Byleth to dinner at his apartment"}
+{"id":"F047","type":"IC","predicate":"recognizes_significance","subjects":["Byleth"],"objects":["Dimitri"],"valid_from":23,"valid_to":null,"canonical_fact":"Byleth recognizes the significance of Dimitri's invitation"}
+{"id":"F048","type":"IC","predicate":"observes","subjects":["Byleth"],"objects":["Dimitri"],"valid_from":24,"valid_to":null,"canonical_fact":"Byleth observes Dimitri in his private domain"}
+{"id":"F049","type":"WM","predicate":"describes","subjects":["Dimitri's Home"],"valid_from":24,"valid_to":null,"canonical_fact":"Dimitri's home is spacious, ordered, and intense"}
+{"id":"F050","type":"IC","predicate":"engages in secret relationship","subjects":["Byleth"],"objects":["Dimitri"],"valid_from":25,"valid_to":null,"canonical_fact":"Byleth engages in a secret relationship with Dimitri"}
+{"id":"F051","type":"WM","predicate":"navigates city discreetly","subjects":["Byleth"],"valid_from":25,"valid_to":null,"canonical_fact":"Byleth navigates the city discreetly to avoid detection"}
+{"id":"F052","type":"IC","predicate":"discovers","subjects":["Dedue"],"objects":["Byleth"],"valid_from":26,"valid_to":null,"canonical_fact":"Dedue discovers evidence of Byleth's presence in Dimitri's living space"}
+{"id":"F053","type":"IC","predicate":"advises","subjects":["Dedue"],"objects":["Dimitri"],"valid_from":27,"valid_to":null,"canonical_fact":"Dedue advises Dimitri to be prudent about workplace entanglements"}
+{"id":"F054","type":"IC","predicate":"protects","subjects":["Dedue"],"objects":["Dimitri"],"valid_from":27,"valid_to":null,"canonical_fact":"Dedue attempts to protect Dimitri from potential scandal"}
+{"id":"F055","type":"IC","predicate":"reassures","subjects":["Dimitri"],"objects":["Dedue"],"valid_from":28,"valid_to":null,"canonical_fact":"Dimitri reassures Dedue about the situation"}
+{"id":"F056","type":"WM","predicate":"infatuated","subjects":["Dimitri"],"valid_from":28,"valid_to":null,"canonical_fact":"Dimitri's infatuation overrides his usual caution"}
+{"id":"F057","type":"IC","predicate":"invites","subjects":["Dimitri"],"objects":["Byleth"],"valid_from":29,"valid_to":null,"canonical_fact":"Dimitri invites Byleth to lunch at 'La Maison'"}
+{"id":"F058","type":"WM","predicate":"frequented_by_colleagues","subjects":["La Maison"],"valid_from":29,"valid_to":null,"canonical_fact":"'La Maison' is a restaurant frequented by colleagues"}
+{"id":"F059","type":"IC","predicate":"claims","subjects":["Dimitri"],"objects":["Byleth"],"valid_from":30,"valid_to":null,"canonical_fact":"Dimitri claims Byleth with an intimate gesture"}
+{"id":"F060","type":"IC","predicate":"covers hand possessively","subjects":["Dimitri"],"objects":["Byleth"],"valid_from":31,"valid_to":null,"canonical_fact":"Dimitri covers Byleth's hand possessively"}
+{"id":"F061","type":"IC","predicate":"feels betrayed","subjects":["Sylvain"],"objects":["Dimitri","Byleth"],"valid_from":31,"valid_to":null,"canonical_fact":"Sylvain feels betrayed by Dimitri and Byleth"}
+{"id":"F062","type":"IC","predicate":"notices","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":32,"valid_to":null,"canonical_fact":"Byleth notices Sylvain's abrupt and angry retreat"}
+{"id":"F063","type":"WM","predicate":"abandoned_plan","subjects":["Sylvain"],"valid_from":32,"valid_to":null,"canonical_fact":"Sylvain abandons his takeout plan and leaves the restaurant"}
+{"id":"F064","type":"IC","predicate":"confronts","subjects":["Sylvain"],"objects":["Byleth"],"valid_from":33,"valid_to":null,"canonical_fact":"Sylvain confronts Byleth at Garreg Mach Corp building"}
+{"id":"F065","type":"WM","predicate":"seeks solitude","subjects":["Byleth"],"valid_from":33,"valid_to":null,"canonical_fact":"Byleth seeks solitude in the Garreg Mach Corp building"}
+{"id":"F066","type":"IC","predicate":"demands_explanation","subjects":["Sylvain"],"objects":["Byleth"],"valid_from":34,"valid_to":null,"canonical_fact":"Sylvain demands an explanation from Byleth about the scene with Dimitri"}
+{"id":"F067","type":"IC","predicate":"has_scene","subjects":["Byleth"],"objects":["Dimitri"],"valid_from":34,"valid_to":null,"canonical_fact":"Byleth had a scene with Dimitri at lunch"}
+{"id":"F068","type":"IC","predicate":"accuses","subjects":["Sylvain"],"objects":["Byleth"],"valid_from":35,"valid_to":null,"canonical_fact":"Sylvain accuses Byleth of being secretive"}
+{"id":"F069","type":"IC","predicate":"deflects","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":35,"valid_to":null,"canonical_fact":"Byleth deflects Sylvain's accusations by questioning his right to ask"}
+{"id":"F070","type":"IC","predicate":"confuses","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":36,"valid_to":null,"canonical_fact":"Byleth confuses Sylvain by bringing Annette into the conversation"}
+{"id":"F071","type":"IC","predicate":"suggests","subjects":["Byleth"],"objects":["Dimitri"],"valid_from":36,"valid_to":null,"canonical_fact":"Byleth suggests Dimitri is merely a demanding mentor figure"}
+{"id":"F072","type":"IC","predicate":"warns","subjects":["Sylvain"],"objects":["Byleth"],"valid_from":37,"valid_to":null,"canonical_fact":"Sylvain warns Byleth about Dimitri"}
+{"id":"F073","type":"IC","predicate":"suspects","subjects":["Sylvain"],"objects":["Byleth"],"valid_from":37,"valid_to":null,"canonical_fact":"Sylvain suspects Byleth"}
+{"id":"F074","type":"WM","predicate":"health_alert","subjects":["Company"],"valid_from":38,"valid_to":null,"canonical_fact":"The company issued a health alert about a novel virus spreading overseas"}
+{"id":"F075","type":"IC","predicate":"dismisses","subjects":["Felix"],"objects":["Ashe"],"valid_from":39,"valid_to":null,"canonical_fact":"Felix dismisses Ashe's unease about the virus"}
+{"id":"F076","type":"WM","predicate":"discusses","subjects":["Office"],"valid_from":39,"valid_to":null,"canonical_fact":"The office briefly discusses the virus memo"}
+{"id":"F077","type":"IC","predicate":"shares excitement with","subjects":["Annette"],"objects":["Byleth","Mercedes"],"valid_from":40,"valid_to":null,"canonical_fact":"Annette shares her excitement with Byleth and Mercedes about a surprise for Sylvain"}
+{"id":"F078","type":"IC","predicate":"plans surprise for","subjects":["Annette"],"objects":["Sylvain"],"valid_from":40,"valid_to":null,"canonical_fact":"Annette plans a surprise for Sylvain at a countryside inn"}
+{"id":"F079","type":"IC","predicate":"trusts","subjects":["Annette"],"objects":["Byleth","Mercedes"],"valid_from":40,"valid_to":null,"canonical_fact":"Annette trusts Byleth and Mercedes with her surprise plan for Sylvain"}
+{"id":"F080","type":"IC","predicate":"entrusts","subjects":["Annette"],"objects":["Byleth","Mercedes"],"valid_from":41,"valid_to":null,"canonical_fact":"Annette entrusts Byleth and Mercedes with keeping her romantic getaway a secret from Sylvain"}
+{"id":"F081","type":"IC","predicate":"assures","subjects":["Byleth"],"objects":["Annette"],"valid_from":41,"valid_to":null,"canonical_fact":"Byleth assures Annette that the secret is safe"}
+{"id":"F082","type":"IC","predicate":"requests help","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":42,"valid_to":null,"canonical_fact":"Byleth requests help from Sylvain for a systems integration problem"}
+{"id":"F083","type":"WM","predicate":"conflict","subjects":["Annette's Planned Surprise"],"valid_from":42,"valid_to":null,"canonical_fact":"Annette's planned surprise conflicts with Byleth's request to Sylvain"}
+{"id":"F084","type":"IC","predicate":"flattering","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":43,"valid_to":null,"canonical_fact":"Byleth flatters Sylvain to ensure his involvement"}
+{"id":"F085","type":"IC","predicate":"tension_with","subjects":["Sylvain"],"objects":["Byleth"],"valid_from":43,"valid_to":null,"canonical_fact":"Sylvain has recent tension with Byleth"}
+{"id":"F086","type":"IC","predicate":"agrees_to_help","subjects":["Sylvain"],"objects":["Byleth"],"valid_from":44,"valid_to":null,"canonical_fact":"Sylvain agrees to help Byleth by clearing his weekend schedule"}
+{"id":"F087","type":"WM","predicate":"sabotage_stage_complete","subjects":["Byleth"],"valid_from":44,"valid_to":null,"canonical_fact":"Stage one of the sabotage is complete"}
+{"id":"F088","type":"IC","predicate":"apologizes","subjects":["Sylvain"],"objects":["Annette"],"valid_from":45,"valid_to":null,"canonical_fact":"Sylvain apologizes to Annette for being unavailable"}
+{"id":"F089","type":"IC","predicate":"lies","subjects":["Sylvain"],"objects":["Annette"],"valid_from":45,"valid_to":null,"canonical_fact":"Sylvain lies to Annette about a work crisis"}
+{"id":"F090","type":"IC","predicate":"feels disappointed by","subjects":["Annette"],"objects":["Unnamed Character"],"valid_from":46,"valid_to":null,"canonical_fact":"Annette feels disappointed by Unnamed Character's excuse"}
+{"id":"F091","type":"IC","predicate":"shares secret plan","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":47,"valid_to":null,"canonical_fact":"Byleth shares a secret plan with Sylvain for a weekend rendezvous"}
+{"id":"F092","type":"WM","predicate":"planned rendezvous","subjects":["Boutique Hotel"],"valid_from":47,"valid_to":null,"canonical_fact":"A rendezvous is planned at a secluded boutique hotel just outside the city limits"}
+{"id":"F093","type":"IC","predicate":"engages in affair","subjects":["Byleth"],"objects":["Sylvain"],"valid_from":48,"valid_to":null,"canonical_fact":"Byleth and Sylvain engage in a passionate affair"}
+{"id":"F094","type":"WM","predicate":"affair fueled by secrecy","subjects":["Byleth","Sylvain"],"valid_from":48,"valid_to":null,"canonical_fact":"The affair between Byleth and Sylvain is fueled by secrecy and transgression"}
+{"id":"F095","type":"IC","predicate":"cancels_trip_with","subjects":["Sylvain"],"objects":["Annette"],"valid_from":49,"valid_to":null,"canonical_fact":"Sylvain cancels a trip with Annette for work"}
+{"id":"F096","type":"IC","predicate":"expresses_surprise_about","subjects":["Mercedes"],"objects":["Sylvain"],"valid_from":49,"valid_to":null,"canonical_fact":"Mercedes expresses surprise about Sylvain's work crisis"}
+{"id":"F097","type":"IC","predicate":"plants_doubt","subjects":["Mercedes"],"objects":["Annette"],"valid_from":50,"valid_to":null,"canonical_fact":"Mercedes plants a seed of doubt in Annette's mind"}
+{"id":"F098","type":"IC","predicate":"suspects","subjects":["Annette"],"objects":["Sylvain"],"valid_from":50,"valid_to":null,"canonical_fact":"Annette suspects Sylvain might have lied"}

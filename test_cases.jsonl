@@ -1,0 +1,327 @@
+{"chapter":1,"expectedGoldIds":["F001"],"focusCharacter":"Byleth Eisner","id":"F001_direct","query":"What does Byleth Eisner do at Garreg Mach Corp in chapter 1?"}
+{"chapter":1,"expectedGoldIds":["F001"],"focusCharacter":"Byleth Eisner","id":"F001_focused","query":"How is Byleth Eisner involved with the office ecosystem at Garreg Mach Corp in chapter 1?"}
+{"chapter":1,"expectedGoldIds":["F001"],"focusCharacter":"Byleth Eisner","id":"F001_paraphrase","query":"Can you tell me about Byleth Eisner's role at Garreg Mach Corp in the first chapter?"}
+{"chapter":1,"expectedGoldIds":["F002"],"focusCharacter":"Dimitri","id":"F002_direct","query":"Who are the key players at Garreg Mach Corp in chapter 1?"}
+{"chapter":1,"expectedGoldIds":["F002"],"focusCharacter":"Dimitri","id":"F002_focused","query":"What role does Dimitri play at Garreg Mach Corp in chapter 1?"}
+{"chapter":1,"expectedGoldIds":["F002"],"focusCharacter":"Dimitri","id":"F002_paraphrase","query":"Can you tell me about the main figures at Garreg Mach Corp in the first chapter?"}
+{"chapter":2,"expectedGoldIds":["F003"],"focusCharacter":"Sylvain","partner":"Annette","id":"F003_direct","query":"What is the relationship between Sylvain and Annette in chapter 2?"}
+{"chapter":2,"expectedGoldIds":["F003"],"focusCharacter":"Sylvain","partner":"Annette","id":"F003_focused","query":"How does Sylvain interact with others in chapter 2?"}
+{"chapter":2,"expectedGoldIds":["F003"],"focusCharacter":"Sylvain","partner":"Annette","id":"F003_paraphrase","query":"Who does Sylvain seem really comfortable with in chapter 2?"}
+{"chapter":3,"expectedGoldIds":["F004"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F004_direct","query":"What is the relationship between Byleth and Dimitri in chapter 3?"}
+{"chapter":3,"expectedGoldIds":["F004"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F004_focused","query":"How does Byleth interact with others by chapter 3?"}
+{"chapter":3,"expectedGoldIds":["F004"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F004_paraphrase","query":"Who does Byleth turn to for building a personal connection in chapter 3?"}
+{"chapter":4,"expectedGoldIds":["F005"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F005_direct","query":"What happens between Byleth and Sylvain in chapter 4?"}
+{"chapter":4,"expectedGoldIds":["F005"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F005_focused","query":"How does Byleth interact with Sylvain by chapter 4?"}
+{"chapter":4,"expectedGoldIds":["F005"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F005_paraphrase","query":"Does Byleth have any interesting exchanges with Sylvain in chapter 4?"}
+{"chapter":4,"expectedGoldIds":[],"focusCharacter":"Byleth","partner":"Sylvain","id":"F005_negative","query":"Show Annette's relationships at chapter 4.","negativeGoldIds":["F006"]}
+{"chapter":4,"expectedGoldIds":["F006"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F006_direct","query":"What is the nature of Sylvain and Byleth's relationship in chapter 4?"}
+{"chapter":4,"expectedGoldIds":["F006"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F006_focused","query":"How does Sylvain feel about Byleth by chapter 4?"}
+{"chapter":4,"expectedGoldIds":["F006"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F006_paraphrase","query":"Why is Sylvain interested in Byleth's attention during chapter 4?"}
+{"chapter":4,"expectedGoldIds":[],"focusCharacter":"Sylvain","partner":"Byleth","id":"F006_negative","query":"Show Annette's relationships at chapter 4.","negativeGoldIds":["F005"]}
+{"chapter":5,"expectedGoldIds":["F007"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F007_direct","query":"What happens between Byleth and Dimitri in chapter 5?"}
+{"chapter":5,"expectedGoldIds":["F007"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F007_focused","query":"How does Byleth interact with others by chapter 5?"}
+{"chapter":5,"expectedGoldIds":["F007"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F007_paraphrase","query":"Who does Byleth offer to help in chapter 5?"}
+{"chapter":5,"expectedGoldIds":["F008"],"focusCharacter":"Office","id":"F008_direct","query":"What happens in the office with Dimitri in chapter 5?"}
+{"chapter":5,"expectedGoldIds":["F008"],"focusCharacter":"Office","id":"F008_focused","query":"What is Dimitri doing in the office during chapter 5?"}
+{"chapter":5,"expectedGoldIds":["F008"],"focusCharacter":"Office","id":"F008_paraphrase","query":"Can you tell me about Dimitri's work situation in the office around chapter 5?"}
+{"chapter":6,"expectedGoldIds":["F009"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F009_direct","query":"What actions does Byleth take to escalate tension with Dimitri in chapter 6?"}
+{"chapter":6,"expectedGoldIds":["F009"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F009_focused","query":"How does Byleth's relationship with Dimitri change by chapter 6?"}
+{"chapter":6,"expectedGoldIds":["F009"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F009_paraphrase","query":"What happens between Byleth and Dimitri that increases tension in chapter 6?"}
+{"chapter":6,"expectedGoldIds":[],"focusCharacter":"Byleth","partner":"Dimitri","id":"F009_negative","query":"Show Sylvain's relationships at chapter 6.","negativeGoldIds":["F010"]}
+{"chapter":6,"expectedGoldIds":["F010"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F010_direct","query":"What happens between Dimitri and Byleth in chapter 6?"}
+{"chapter":6,"expectedGoldIds":["F010"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F010_focused","query":"How does Dimitri's attention shift by chapter 6?"}
+{"chapter":6,"expectedGoldIds":["F010"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F010_paraphrase","query":"Who starts to catch Dimitri's attention around chapter 6?"}
+{"chapter":6,"expectedGoldIds":[],"focusCharacter":"Dimitri","partner":"Byleth","id":"F010_negative","query":"Show Sylvain's relationships at chapter 6.","negativeGoldIds":["F009"]}
+{"chapter":7,"expectedGoldIds":["F011"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F011_direct","query":"What happens between Byleth and Dimitri in chapter 7?"}
+{"chapter":7,"expectedGoldIds":["F011"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F011_focused","query":"How does Byleth's relationship with Dimitri develop by chapter 7?"}
+{"chapter":7,"expectedGoldIds":["F011"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F011_paraphrase","query":"Does Byleth share a romantic moment with Dimitri around chapter 7?"}
+{"chapter":7,"expectedGoldIds":[],"focusCharacter":"Byleth","partner":"Dimitri","id":"F011_negative","query":"Show Sylvain's relationships at chapter 7.","negativeGoldIds":["F012"]}
+{"chapter":7,"expectedGoldIds":["F012"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F012_direct","query":"What happens between Dimitri and Byleth in chapter 7?"}
+{"chapter":7,"expectedGoldIds":["F012"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F012_focused","query":"How does Dimitri feel about Byleth by chapter 7?"}
+{"chapter":7,"expectedGoldIds":["F012"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F012_paraphrase","query":"Can you tell me about the moment Dimitri and Byleth share in chapter 7?"}
+{"chapter":7,"expectedGoldIds":[],"focusCharacter":"Dimitri","partner":"Byleth","id":"F012_negative","query":"Show Sylvain's relationships at chapter 7.","negativeGoldIds":["F011"]}
+{"chapter":7,"expectedGoldIds":["F013"],"focusCharacter":"Corporate Building","id":"F013_direct","query":"What happens in the corporate building after dark in chapter 7?"}
+{"chapter":7,"expectedGoldIds":["F013"],"focusCharacter":"Corporate Building","id":"F013_focused","query":"Whose actions are significant in the corporate building during chapter 7?"}
+{"chapter":7,"expectedGoldIds":["F013"],"focusCharacter":"Corporate Building","id":"F013_paraphrase","query":"Can you tell me about any secretive events occurring in the corporate building around chapter 7?"}
+{"chapter":8,"expectedGoldIds":["F014"],"focusCharacter":"Byleth","id":"F014_direct","query":"What happens when Byleth leaves Dimitri's office in chapter 8?"}
+{"chapter":8,"expectedGoldIds":["F014"],"focusCharacter":"Byleth","id":"F014_focused","query":"How does Byleth interact with Dimitri by chapter 8?"}
+{"chapter":8,"expectedGoldIds":["F014"],"focusCharacter":"Byleth","id":"F014_paraphrase","query":"Did Byleth manage to leave Dimitri's office without being noticed in chapter 8?"}
+{"chapter":9,"expectedGoldIds":["F015"],"focusCharacter":"Dedue","partner":"Byleth","id":"F015_direct","query":"What happens between Dedue and Byleth in chapter 9?"}
+{"chapter":9,"expectedGoldIds":["F015"],"focusCharacter":"Dedue","partner":"Byleth","id":"F015_focused","query":"How does Dedue perceive Byleth by chapter 9?"}
+{"chapter":9,"expectedGoldIds":["F015"],"focusCharacter":"Dedue","partner":"Byleth","id":"F015_paraphrase","query":"Did Dedue notice anything unusual about Byleth in chapter 9?"}
+{"chapter":9,"expectedGoldIds":["F016"],"focusCharacter":"Byleth","id":"F016_direct","query":"How does Byleth feel about the User in chapter 9?"}
+{"chapter":9,"expectedGoldIds":["F016"],"focusCharacter":"Byleth","id":"F016_focused","query":"What are Byleth's feelings towards others by chapter 9?"}
+{"chapter":9,"expectedGoldIds":["F016"],"focusCharacter":"Byleth","id":"F016_paraphrase","query":"Who makes Byleth feel understood in chapter 9?"}
+{"chapter":10,"expectedGoldIds":["F017"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F017_direct","query":"What does Dimitri say about his encounter with Byleth in chapter 10?"}
+{"chapter":10,"expectedGoldIds":["F017"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F017_focused","query":"How does Dimitri feel about his interactions with Byleth by chapter 10?"}
+{"chapter":10,"expectedGoldIds":["F017"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F017_paraphrase","query":"Did Dimitri and Byleth both feel the same way about their meeting in chapter 10?"}
+{"chapter":10,"expectedGoldIds":[],"focusCharacter":"Dimitri","partner":"Byleth","id":"F017_negative","query":"Show Sylvain's relationships at chapter 10.","negativeGoldIds":["F018"]}
+{"chapter":10,"expectedGoldIds":["F018"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F018_direct","query":"What happens between Byleth and Dimitri in chapter 10?"}
+{"chapter":10,"expectedGoldIds":["F018"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F018_focused","query":"How does Byleth's relationship with Dimitri develop by chapter 10?"}
+{"chapter":10,"expectedGoldIds":["F018"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F018_paraphrase","query":"How does Byleth manage to strengthen their bond with Dimitri in chapter 10?"}
+{"chapter":10,"expectedGoldIds":[],"focusCharacter":"Byleth","partner":"Dimitri","id":"F018_negative","query":"Show Sylvain's relationships at chapter 10.","negativeGoldIds":["F017"]}
+{"chapter":11,"expectedGoldIds":["F019"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F019_direct","query":"What happens between Byleth and Sylvain in chapter 11?"}
+{"chapter":11,"expectedGoldIds":["F019"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F019_focused","query":"How does Byleth interact with Sylvain by chapter 11?"}
+{"chapter":11,"expectedGoldIds":["F019"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F019_paraphrase","query":"Can you tell me about any playful moments Byleth has with Sylvain in chapter 11?"}
+{"chapter":11,"expectedGoldIds":["F020"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F020_direct","query":"What happens between Byleth and Sylvain in chapter 11?"}
+{"chapter":11,"expectedGoldIds":["F020"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F020_focused","query":"How does Byleth interact with Sylvain by chapter 11?"}
+{"chapter":11,"expectedGoldIds":["F020"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F020_paraphrase","query":"Did Byleth and Sylvain exchange contact info around chapter 11?"}
+{"chapter":12,"expectedGoldIds":["F021"],"focusCharacter":"Annette","partner":"Byleth","id":"F021_direct","query":"What is the nature of Annette's relationship with Byleth in chapter 12?"}
+{"chapter":12,"expectedGoldIds":["F021"],"focusCharacter":"Annette","partner":"Byleth","id":"F021_focused","query":"How does Annette feel about Byleth by chapter 12?"}
+{"chapter":12,"expectedGoldIds":["F021"],"focusCharacter":"Annette","partner":"Byleth","id":"F021_paraphrase","query":"Who does Annette show affection towards in chapter 12?"}
+{"chapter":12,"expectedGoldIds":[],"focusCharacter":"Annette","partner":"Byleth","id":"F021_negative","query":"Show Sylvain's relationships at chapter 12.","negativeGoldIds":["F022"]}
+{"chapter":12,"expectedGoldIds":["F022"],"focusCharacter":"Byleth","partner":"Annette","id":"F022_direct","query":"What happens between Byleth and Annette in chapter 12?"}
+{"chapter":12,"expectedGoldIds":["F022"],"focusCharacter":"Byleth","partner":"Annette","id":"F022_focused","query":"How does Byleth interact with others by chapter 12?"}
+{"chapter":12,"expectedGoldIds":["F022"],"focusCharacter":"Byleth","partner":"Annette","id":"F022_paraphrase","query":"Who does Byleth share a friendly moment with in chapter 12?"}
+{"chapter":12,"expectedGoldIds":[],"focusCharacter":"Byleth","partner":"Annette","id":"F022_negative","query":"Show Sylvain's relationships at chapter 12.","negativeGoldIds":["F021"]}
+{"chapter":12,"expectedGoldIds":["F023"],"focusCharacter":"Mask","id":"F023_direct","query":"Why is the mask important in chapter 12?"}
+{"chapter":12,"expectedGoldIds":["F023"],"focusCharacter":"Mask","id":"F023_focused","query":"What role does the mask play in the events of chapter 12?"}
+{"chapter":12,"expectedGoldIds":["F023"],"focusCharacter":"Mask","id":"F023_paraphrase","query":"Can you explain why the mask is crucial in chapter 12?"}
+{"chapter":12,"expectedGoldIds":["F024"],"focusCharacter":"Byleth","id":"F024_direct","query":"How does witnessing a bond affect Byleth in chapter 12?"}
+{"chapter":12,"expectedGoldIds":["F024"],"focusCharacter":"Byleth","id":"F024_focused","query":"What strengthens Byleth's resolve in chapter 12?"}
+{"chapter":12,"expectedGoldIds":["F024"],"focusCharacter":"Byleth","id":"F024_paraphrase","query":"What event in chapter 12 makes Byleth more determined?"}
+{"chapter":13,"expectedGoldIds":["F025"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F025_direct","query":"What happens between Dimitri and Byleth in chapter 13?"}
+{"chapter":13,"expectedGoldIds":["F025"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F025_focused","query":"How does Dimitri interact with others by chapter 13?"}
+{"chapter":13,"expectedGoldIds":["F025"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F025_paraphrase","query":"Did Dimitri send any messages to Byleth around chapter 13?"}
+{"chapter":13,"expectedGoldIds":["F026"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F026_direct","query":"What happens between Sylvain and Byleth in chapter 13?"}
+{"chapter":13,"expectedGoldIds":["F026"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F026_focused","query":"What does Sylvain do in relation to Byleth by chapter 13?"}
+{"chapter":13,"expectedGoldIds":["F026"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F026_paraphrase","query":"Did Sylvain send any messages to Byleth around chapter 13?"}
+{"chapter":13,"expectedGoldIds":["F027"],"focusCharacter":"Byleth","id":"F027_direct","query":"What is the significance of Byleth's phone in chapter 13?"}
+{"chapter":13,"expectedGoldIds":["F027"],"focusCharacter":"Byleth","id":"F027_focused","query":"How does Byleth manage their secrets by chapter 13?"}
+{"chapter":13,"expectedGoldIds":["F027"],"focusCharacter":"Byleth","id":"F027_paraphrase","query":"What's going on with Byleth's phone and all those secrets in chapter 13?"}
+{"chapter":14,"expectedGoldIds":["F028"],"focusCharacter":"Felix","partner":"Byleth","id":"F028_direct","query":"What happens between Felix and Byleth in chapter 14?"}
+{"chapter":14,"expectedGoldIds":["F028"],"focusCharacter":"Felix","partner":"Byleth","id":"F028_focused","query":"How does Felix view Byleth by chapter 14?"}
+{"chapter":14,"expectedGoldIds":["F028"],"focusCharacter":"Felix","partner":"Byleth","id":"F028_paraphrase","query":"What does Felix think about Byleth's actions in chapter 14?"}
+{"chapter":14,"expectedGoldIds":[],"focusCharacter":"Felix","partner":"Byleth","id":"F028_negative","query":"Show Sylvain's relationships at chapter 14.","negativeGoldIds":["F029"]}
+{"chapter":14,"expectedGoldIds":["F029"],"focusCharacter":"Byleth","partner":"Felix","id":"F029_direct","query":"What happens between Byleth and Felix in chapter 14?"}
+{"chapter":14,"expectedGoldIds":["F029"],"focusCharacter":"Byleth","partner":"Felix","id":"F029_focused","query":"How does Felix view Byleth by chapter 14?"}
+{"chapter":14,"expectedGoldIds":["F029"],"focusCharacter":"Byleth","partner":"Felix","id":"F029_paraphrase","query":"Is Byleth aware of anyone watching them closely in chapter 14?"}
+{"chapter":14,"expectedGoldIds":[],"focusCharacter":"Byleth","partner":"Felix","id":"F029_negative","query":"Show Sylvain's relationships at chapter 14.","negativeGoldIds":["F028"]}
+{"chapter":15,"expectedGoldIds":["F030"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F030_direct","query":"What happens between Byleth and Sylvain in chapter 15?"}
+{"chapter":15,"expectedGoldIds":["F030"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F030_focused","query":"What interactions does Sylvain have with Byleth by chapter 15?"}
+{"chapter":15,"expectedGoldIds":["F030"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F030_paraphrase","query":"Where does Byleth take Sylvain for drinks in chapter 15?"}
+{"chapter":15,"expectedGoldIds":["F031"],"focusCharacter":"The Lost Saint","id":"F031_direct","query":"Why is The Lost Saint chosen in chapter 15?"}
+{"chapter":15,"expectedGoldIds":["F031"],"focusCharacter":"The Lost Saint","id":"F031_focused","query":"What role does The Lost Saint play by chapter 15?"}
+{"chapter":15,"expectedGoldIds":["F031"],"focusCharacter":"The Lost Saint","id":"F031_paraphrase","query":"Why is The Lost Saint selected for its secrecy in chapter 15?"}
+{"chapter":16,"expectedGoldIds":["F032"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F032_direct","query":"What happens between Byleth and Dimitri in chapter 16?"}
+{"chapter":16,"expectedGoldIds":["F032"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F032_focused","query":"How does Byleth interact with Dimitri by chapter 16?"}
+{"chapter":16,"expectedGoldIds":["F032"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F032_paraphrase","query":"What story does Byleth tell Dimitri in chapter 16?"}
+{"chapter":16,"expectedGoldIds":["F033"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F033_direct","query":"What happens between Byleth and Sylvain in chapter 16?"}
+{"chapter":16,"expectedGoldIds":["F033"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F033_focused","query":"What is Byleth's relationship with Sylvain by chapter 16?"}
+{"chapter":16,"expectedGoldIds":["F033"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F033_paraphrase","query":"Who does Byleth plan a date with in chapter 16?"}
+{"chapter":17,"expectedGoldIds":["F034"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F034_direct","query":"What is the nature of Byleth and Sylvain's relationship in chapter 17?"}
+{"chapter":17,"expectedGoldIds":["F034"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F034_focused","query":"How does Byleth feel about Sylvain by chapter 17?"}
+{"chapter":17,"expectedGoldIds":["F034"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F034_paraphrase","query":"Is there any special connection between Byleth and Sylvain around chapter 17?"}
+{"chapter":17,"expectedGoldIds":["F035"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F035_direct","query":"What happens between Byleth and Sylvain in chapter 17?"}
+{"chapter":17,"expectedGoldIds":["F035"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F035_focused","query":"How does Byleth interact with others by chapter 17?"}
+{"chapter":17,"expectedGoldIds":["F035"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F035_paraphrase","query":"Is there any flirtation involving Byleth and Sylvain around chapter 17?"}
+{"chapter":17,"expectedGoldIds":["F036"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F036_direct","query":"What is the dynamic between Byleth and Sylvain in chapter 17?"}
+{"chapter":17,"expectedGoldIds":["F036"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F036_focused","query":"How does Byleth interact with others by chapter 17?"}
+{"chapter":17,"expectedGoldIds":["F036"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F036_paraphrase","query":"Who does Byleth have a playful and adventurous relationship with in chapter 17?"}
+{"chapter":18,"expectedGoldIds":["F037"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F037_direct","query":"What agreement do Byleth and Sylvain have in chapter 18?"}
+{"chapter":18,"expectedGoldIds":["F037"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F037_focused","query":"How does Sylvain interact with Byleth by chapter 18?"}
+{"chapter":18,"expectedGoldIds":["F037"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F037_paraphrase","query":"Who does Byleth trust to keep a secret in chapter 18?"}
+{"chapter":18,"expectedGoldIds":[],"focusCharacter":"Byleth","partner":"Sylvain","id":"F037_negative","query":"Show Annette's relationships at chapter 18.","negativeGoldIds":["F038"]}
+{"chapter":18,"expectedGoldIds":["F038"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F038_direct","query":"What is the nature of the secret between Sylvain and Byleth in chapter 18?"}
+{"chapter":18,"expectedGoldIds":["F038"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F038_focused","query":"How does Sylvain feel about his connection with Byleth by chapter 18?"}
+{"chapter":18,"expectedGoldIds":["F038"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F038_paraphrase","query":"Why is Sylvain so intrigued by the secret he shares with Byleth in chapter 18?"}
+{"chapter":18,"expectedGoldIds":[],"focusCharacter":"Sylvain","partner":"Byleth","id":"F038_negative","query":"Show Annette's relationships at chapter 18.","negativeGoldIds":["F037"]}
+{"chapter":19,"expectedGoldIds":["F039"],"focusCharacter":"Sylvain","partner":"Unnamed Partner","id":"F039_direct","query":"What happens between Sylvain and his partner in chapter 19?"}
+{"chapter":19,"expectedGoldIds":["F039"],"focusCharacter":"Sylvain","partner":"Unnamed Partner","id":"F039_focused","query":"What is Sylvain up to in chapter 19?"}
+{"chapter":19,"expectedGoldIds":["F039"],"focusCharacter":"Sylvain","partner":"Unnamed Partner","id":"F039_paraphrase","query":"Can you tell me about Sylvain's secret plans at the hotel in chapter 19?"}
+{"chapter":20,"expectedGoldIds":["F040"],"focusCharacter":"Annette","partner":"Byleth","id":"F040_direct","query":"What does Annette share with Byleth in chapter 20?"}
+{"chapter":20,"expectedGoldIds":["F040"],"focusCharacter":"Annette","partner":"Byleth","id":"F040_focused","query":"How does Annette feel about her relationships by chapter 20?"}
+{"chapter":20,"expectedGoldIds":["F040"],"focusCharacter":"Annette","partner":"Byleth","id":"F040_paraphrase","query":"Who does Annette talk to about her happiness and Sylvain's attentiveness in chapter 20?"}
+{"chapter":20,"expectedGoldIds":[],"focusCharacter":"Annette","partner":"Byleth","id":"F040_negative","query":"Show Sylvain's relationships at chapter 20.","negativeGoldIds":["F041","F042"]}
+{"chapter":20,"expectedGoldIds":["F041"],"focusCharacter":"Sylvain","partner":"Annette","id":"F041_direct","query":"What is the nature of Sylvain and Annette's relationship in chapter 20?"}
+{"chapter":20,"expectedGoldIds":["F041"],"focusCharacter":"Sylvain","partner":"Annette","id":"F041_focused","query":"How does Sylvain interact with others by chapter 20?"}
+{"chapter":20,"expectedGoldIds":["F041"],"focusCharacter":"Sylvain","partner":"Annette","id":"F041_paraphrase","query":"Who has Sylvain been paying attention to in chapter 20?"}
+{"chapter":20,"expectedGoldIds":[],"focusCharacter":"Sylvain","partner":"Annette","id":"F041_negative","query":"Show Byleth's relationships at chapter 20.","negativeGoldIds":["F040","F042"]}
+{"chapter":20,"expectedGoldIds":["F042"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F042_direct","query":"What does Byleth notice about Sylvain's behavior in chapter 20?"}
+{"chapter":20,"expectedGoldIds":["F042"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F042_focused","query":"How does Byleth perceive Sylvain by chapter 20?"}
+{"chapter":20,"expectedGoldIds":["F042"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F042_paraphrase","query":"Is there anything ironic about how Sylvain acts towards Byleth in chapter 20?"}
+{"chapter":20,"expectedGoldIds":[],"focusCharacter":"Byleth","partner":"Sylvain","id":"F042_negative","query":"Show Annette's relationships at chapter 20.","negativeGoldIds":["F040","F041"]}
+{"chapter":21,"expectedGoldIds":["F043"],"focusCharacter":"Annette","partner":"Byleth","id":"F043_direct","query":"What is the relationship between Annette and Byleth in chapter 21?"}
+{"chapter":21,"expectedGoldIds":["F043"],"focusCharacter":"Annette","partner":"Byleth","id":"F043_focused","query":"How does Annette view her friendships by chapter 21?"}
+{"chapter":21,"expectedGoldIds":["F043"],"focusCharacter":"Annette","partner":"Byleth","id":"F043_paraphrase","query":"Who does Annette trust enough to share personal details with in chapter 21?"}
+{"chapter":22,"expectedGoldIds":["F044"],"focusCharacter":"Annette","partner":"Byleth","id":"F044_direct","query":"What is the relationship between Annette and Byleth in chapter 22?"}
+{"chapter":22,"expectedGoldIds":["F044"],"focusCharacter":"Annette","partner":"Byleth","id":"F044_focused","query":"Show Annette's relationships by chapter 22."}
+{"chapter":22,"expectedGoldIds":["F044"],"focusCharacter":"Annette","partner":"Byleth","id":"F044_paraphrase","query":"Who does Annette trust around chapter 22?"}
+{"chapter":22,"expectedGoldIds":[],"focusCharacter":"Annette","partner":"Byleth","id":"F044_negative","query":"Show Sylvain's relationships at chapter 22.","negativeGoldIds":["F045"]}
+{"chapter":22,"expectedGoldIds":["F045"],"focusCharacter":"Byleth","partner":"Annette","id":"F045_direct","query":"How does Byleth support Annette in chapter 22?"}
+{"chapter":22,"expectedGoldIds":["F045"],"focusCharacter":"Byleth","partner":"Annette","id":"F045_focused","query":"What are Byleth's interactions with Annette by chapter 22?"}
+{"chapter":22,"expectedGoldIds":["F045"],"focusCharacter":"Byleth","partner":"Annette","id":"F045_paraphrase","query":"Who does Byleth show empathy towards in chapter 22?"}
+{"chapter":22,"expectedGoldIds":[],"focusCharacter":"Byleth","partner":"Annette","id":"F045_negative","query":"Show Sylvain's relationships at chapter 22.","negativeGoldIds":["F044"]}
+{"chapter":23,"expectedGoldIds":["F046"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F046_direct","query":"What happens between Dimitri and Byleth in chapter 23?"}
+{"chapter":23,"expectedGoldIds":["F046"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F046_focused","query":"What is Dimitri's relationship with Byleth by chapter 23?"}
+{"chapter":23,"expectedGoldIds":["F046"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F046_paraphrase","query":"Who does Dimitri invite over for dinner in chapter 23?"}
+{"chapter":23,"expectedGoldIds":[],"focusCharacter":"Dimitri","partner":"Byleth","id":"F046_negative","query":"Show Sylvain's relationships at chapter 23.","negativeGoldIds":["F047"]}
+{"chapter":23,"expectedGoldIds":["F047"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F047_direct","query":"What is the significance of Dimitri's invitation to Byleth in chapter 23?"}
+{"chapter":23,"expectedGoldIds":["F047"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F047_focused","query":"How does Byleth perceive Dimitri by chapter 23?"}
+{"chapter":23,"expectedGoldIds":["F047"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F047_paraphrase","query":"Why is Dimitri's invitation important to Byleth in chapter 23?"}
+{"chapter":23,"expectedGoldIds":[],"focusCharacter":"Byleth","partner":"Dimitri","id":"F047_negative","query":"Show Sylvain's relationships at chapter 23.","negativeGoldIds":["F046"]}
+{"chapter":24,"expectedGoldIds":["F048"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F048_direct","query":"What does Byleth observe about Dimitri in chapter 24?"}
+{"chapter":24,"expectedGoldIds":["F048"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F048_focused","query":"What is Byleth's perspective on Dimitri by chapter 24?"}
+{"chapter":24,"expectedGoldIds":["F048"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F048_paraphrase","query":"Can you tell me what Byleth notices about Dimitri in his private space around chapter 24?"}
+{"chapter":24,"expectedGoldIds":["F049"],"focusCharacter":"Dimitri's Home","id":"F049_direct","query":"What is Dimitri's home like in chapter 24?"}
+{"chapter":24,"expectedGoldIds":["F049"],"focusCharacter":"Dimitri's Home","id":"F049_focused","query":"How does Dimitri's living space reflect his personality by chapter 24?"}
+{"chapter":24,"expectedGoldIds":["F049"],"focusCharacter":"Dimitri's Home","id":"F049_paraphrase","query":"Can you describe the atmosphere of Dimitri's home around chapter 24?"}
+{"chapter":25,"expectedGoldIds":["F050"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F050_direct","query":"What is the nature of Byleth and Dimitri's relationship in chapter 25?"}
+{"chapter":25,"expectedGoldIds":["F050"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F050_focused","query":"What secret relationships does Byleth have by chapter 25?"}
+{"chapter":25,"expectedGoldIds":["F050"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F050_paraphrase","query":"Is there anything going on between Byleth and Dimitri around chapter 25?"}
+{"chapter":25,"expectedGoldIds":["F051"],"focusCharacter":"Byleth","id":"F051_direct","query":"What does Byleth do to avoid detection in chapter 25?"}
+{"chapter":25,"expectedGoldIds":["F051"],"focusCharacter":"Byleth","id":"F051_focused","query":"How does Byleth manage to stay unnoticed in chapter 25?"}
+{"chapter":25,"expectedGoldIds":["F051"],"focusCharacter":"Byleth","id":"F051_paraphrase","query":"How does Byleth move around the city without being seen in chapter 25?"}
+{"chapter":26,"expectedGoldIds":["F052"],"focusCharacter":"Dedue","partner":"Byleth","id":"F052_direct","query":"What evidence does Dedue find of Byleth's presence in Dimitri's living space in chapter 26?"}
+{"chapter":26,"expectedGoldIds":["F052"],"focusCharacter":"Dedue","partner":"Byleth","id":"F052_focused","query":"What does Dedue discover about Byleth in chapter 26?"}
+{"chapter":26,"expectedGoldIds":["F052"],"focusCharacter":"Dedue","partner":"Byleth","id":"F052_paraphrase","query":"Did Dedue notice anything related to Byleth in Dimitri's room around chapter 26?"}
+{"chapter":27,"expectedGoldIds":["F053"],"focusCharacter":"Dedue","partner":"Dimitri","id":"F053_direct","query":"What advice does Dedue give to Dimitri in chapter 27?"}
+{"chapter":27,"expectedGoldIds":["F053"],"focusCharacter":"Dedue","partner":"Dimitri","id":"F053_focused","query":"What does Dedue think about Dimitri's workplace relationships in chapter 27?"}
+{"chapter":27,"expectedGoldIds":["F053"],"focusCharacter":"Dedue","partner":"Dimitri","id":"F053_paraphrase","query":"Did Dedue have any concerns about Dimitri's interactions at work in chapter 27?"}
+{"chapter":27,"expectedGoldIds":["F054"],"focusCharacter":"Dedue","partner":"Dimitri","id":"F054_direct","query":"What does Dedue do to protect Dimitri from scandal in chapter 27?"}
+{"chapter":27,"expectedGoldIds":["F054"],"focusCharacter":"Dedue","partner":"Dimitri","id":"F054_focused","query":"How is Dedue involved with Dimitri in chapter 27?"}
+{"chapter":27,"expectedGoldIds":["F054"],"focusCharacter":"Dedue","partner":"Dimitri","id":"F054_paraphrase","query":"How does Dedue try to shield Dimitri from any potential issues in chapter 27?"}
+{"chapter":28,"expectedGoldIds":["F055"],"focusCharacter":"Dimitri","partner":"Dedue","id":"F055_direct","query":"What happens between Dimitri and Dedue in chapter 28?"}
+{"chapter":28,"expectedGoldIds":["F055"],"focusCharacter":"Dimitri","partner":"Dedue","id":"F055_focused","query":"How does Dimitri interact with Dedue by chapter 28?"}
+{"chapter":28,"expectedGoldIds":["F055"],"focusCharacter":"Dimitri","partner":"Dedue","id":"F055_paraphrase","query":"How does Dimitri reassure Dedue in chapter 28?"}
+{"chapter":28,"expectedGoldIds":["F056"],"focusCharacter":"Dimitri","id":"F056_direct","query":"How does Dimitri's infatuation affect his behavior in chapter 28?"}
+{"chapter":28,"expectedGoldIds":["F056"],"focusCharacter":"Dimitri","id":"F056_focused","query":"What changes in Dimitri's behavior are noticeable by chapter 28?"}
+{"chapter":28,"expectedGoldIds":["F056"],"focusCharacter":"Dimitri","id":"F056_paraphrase","query":"Is there a point where Dimitri lets his feelings cloud his judgment, maybe around chapter 28?"}
+{"chapter":29,"expectedGoldIds":["F057"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F057_direct","query":"What happens between Dimitri and Byleth in chapter 29?"}
+{"chapter":29,"expectedGoldIds":["F057"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F057_focused","query":"What invitation does Dimitri extend to someone in chapter 29?"}
+{"chapter":29,"expectedGoldIds":["F057"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F057_paraphrase","query":"Where does Dimitri invite Byleth for lunch in chapter 29?"}
+{"chapter":29,"expectedGoldIds":["F058"],"focusCharacter":"La Maison","id":"F058_direct","query":"What is the significance of 'La Maison' in chapter 29?"}
+{"chapter":29,"expectedGoldIds":["F058"],"focusCharacter":"La Maison","id":"F058_focused","query":"Where do the colleagues often gather by chapter 29?"}
+{"chapter":29,"expectedGoldIds":["F058"],"focusCharacter":"La Maison","id":"F058_paraphrase","query":"Which restaurant do the colleagues like to visit around chapter 29?"}
+{"chapter":30,"expectedGoldIds":["F059"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F059_direct","query":"What happens between Dimitri and Byleth in chapter 30?"}
+{"chapter":30,"expectedGoldIds":["F059"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F059_focused","query":"How does Dimitri express his feelings towards Byleth by chapter 30?"}
+{"chapter":30,"expectedGoldIds":["F059"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F059_paraphrase","query":"Can you tell me about any significant moments between Dimitri and Byleth around chapter 30?"}
+{"chapter":31,"expectedGoldIds":["F060"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F060_direct","query":"What happens between Dimitri and Byleth in chapter 31?"}
+{"chapter":31,"expectedGoldIds":["F060"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F060_focused","query":"How does Dimitri interact with Byleth by chapter 31?"}
+{"chapter":31,"expectedGoldIds":["F060"],"focusCharacter":"Dimitri","partner":"Byleth","id":"F060_paraphrase","query":"Can you tell me about a moment when Dimitri shows possessiveness towards Byleth in chapter 31?"}
+{"chapter":31,"expectedGoldIds":["F061"],"focusCharacter":"Sylvain","partner":"Dimitri","id":"F061_direct","query":"How does Sylvain feel about Dimitri and Byleth in chapter 31?"}
+{"chapter":31,"expectedGoldIds":["F061"],"focusCharacter":"Sylvain","partner":"Dimitri","id":"F061_focused","query":"What are Sylvain's feelings towards Dimitri by chapter 31?"}
+{"chapter":31,"expectedGoldIds":["F061"],"focusCharacter":"Sylvain","partner":"Dimitri","id":"F061_paraphrase","query":"Why does Sylvain feel let down by Dimitri and Byleth in chapter 31?"}
+{"chapter":32,"expectedGoldIds":["F062"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F062_direct","query":"What happens between Byleth and Sylvain in chapter 32?"}
+{"chapter":32,"expectedGoldIds":["F062"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F062_focused","query":"How does Byleth perceive Sylvain's actions in chapter 32?"}
+{"chapter":32,"expectedGoldIds":["F062"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F062_paraphrase","query":"Why does Sylvain leave angrily when Byleth is around in chapter 32?"}
+{"chapter":32,"expectedGoldIds":["F063"],"focusCharacter":"Sylvain","id":"F063_direct","query":"What happens with Sylvain's takeout plan in chapter 32?"}
+{"chapter":32,"expectedGoldIds":["F063"],"focusCharacter":"Sylvain","id":"F063_focused","query":"What decision does Sylvain make at the restaurant in chapter 32?"}
+{"chapter":32,"expectedGoldIds":["F063"],"focusCharacter":"Sylvain","id":"F063_paraphrase","query":"Did Sylvain end up sticking with his takeout plan in chapter 32?"}
+{"chapter":33,"expectedGoldIds":["F064"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F064_direct","query":"What happens between Sylvain and Byleth at Garreg Mach Corp building in chapter 33?"}
+{"chapter":33,"expectedGoldIds":["F064"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F064_focused","query":"What is Sylvain's interaction with Byleth in chapter 33?"}
+{"chapter":33,"expectedGoldIds":["F064"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F064_paraphrase","query":"Can you tell me about the confrontation between Sylvain and Byleth at Garreg Mach Corp in chapter 33?"}
+{"chapter":33,"expectedGoldIds":["F065"],"focusCharacter":"Byleth","id":"F065_direct","query":"What does Byleth do in the Garreg Mach Corp building in chapter 33?"}
+{"chapter":33,"expectedGoldIds":["F065"],"focusCharacter":"Byleth","id":"F065_focused","query":"Where does Byleth prefer to be alone by chapter 33?"}
+{"chapter":33,"expectedGoldIds":["F065"],"focusCharacter":"Byleth","id":"F065_paraphrase","query":"Where does Byleth go to find some peace and quiet around chapter 33?"}
+{"chapter":34,"expectedGoldIds":["F066"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F066_direct","query":"What happens between Sylvain and Byleth in chapter 34?"}
+{"chapter":34,"expectedGoldIds":["F066"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F066_focused","query":"How does Sylvain interact with Byleth by chapter 34?"}
+{"chapter":34,"expectedGoldIds":["F066"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F066_paraphrase","query":"Why is Sylvain questioning Byleth about the scene with Dimitri in chapter 34?"}
+{"chapter":34,"expectedGoldIds":[],"focusCharacter":"Sylvain","partner":"Byleth","id":"F066_negative","query":"Show Annette's relationships at chapter 34.","negativeGoldIds":["F067"]}
+{"chapter":34,"expectedGoldIds":["F067"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F067_direct","query":"What happens between Byleth and Dimitri during lunch in chapter 34?"}
+{"chapter":34,"expectedGoldIds":["F067"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F067_focused","query":"What interactions does Byleth have with Dimitri by chapter 34?"}
+{"chapter":34,"expectedGoldIds":["F067"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F067_paraphrase","query":"Can you tell me about the lunch scene with Byleth and Dimitri in chapter 34?"}
+{"chapter":34,"expectedGoldIds":[],"focusCharacter":"Byleth","partner":"Dimitri","id":"F067_negative","query":"Show Sylvain's relationships at chapter 34.","negativeGoldIds":["F066"]}
+{"chapter":35,"expectedGoldIds":["F068"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F068_direct","query":"What happens between Sylvain and Byleth in chapter 35?"}
+{"chapter":35,"expectedGoldIds":["F068"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F068_focused","query":"How does Sylvain view Byleth by chapter 35?"}
+{"chapter":35,"expectedGoldIds":["F068"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F068_paraphrase","query":"Why does Sylvain think Byleth is being secretive in chapter 35?"}
+{"chapter":35,"expectedGoldIds":[],"focusCharacter":"Sylvain","partner":"Byleth","id":"F068_negative","query":"Show Annette's relationships at chapter 35.","negativeGoldIds":["F069"]}
+{"chapter":35,"expectedGoldIds":["F069"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F069_direct","query":"What happens between Byleth and Sylvain in chapter 35?"}
+{"chapter":35,"expectedGoldIds":["F069"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F069_focused","query":"How does Byleth respond to Sylvain's accusations in chapter 35?"}
+{"chapter":35,"expectedGoldIds":["F069"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F069_paraphrase","query":"How does Byleth handle Sylvain's accusations around chapter 35?"}
+{"chapter":35,"expectedGoldIds":[],"focusCharacter":"Byleth","partner":"Sylvain","id":"F069_negative","query":"Show Annette's relationships at chapter 35.","negativeGoldIds":["F068"]}
+{"chapter":36,"expectedGoldIds":["F070"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F070_direct","query":"What happens between Byleth and Sylvain in chapter 36?"}
+{"chapter":36,"expectedGoldIds":["F070"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F070_focused","query":"How does Sylvain react to Byleth's actions in chapter 36?"}
+{"chapter":36,"expectedGoldIds":["F070"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F070_paraphrase","query":"Can you tell me about the time Byleth confused Sylvain by mentioning Annette in chapter 36?"}
+{"chapter":36,"expectedGoldIds":["F071"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F071_direct","query":"What does Byleth think of Dimitri in chapter 36?"}
+{"chapter":36,"expectedGoldIds":["F071"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F071_focused","query":"How does Byleth view Dimitri by chapter 36?"}
+{"chapter":36,"expectedGoldIds":["F071"],"focusCharacter":"Byleth","partner":"Dimitri","id":"F071_paraphrase","query":"In chapter 36, how does Byleth describe Dimitri's role in their life?"}
+{"chapter":37,"expectedGoldIds":["F072"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F072_direct","query":"What warning does Sylvain give to Byleth about Dimitri in chapter 37?"}
+{"chapter":37,"expectedGoldIds":["F072"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F072_focused","query":"What does Sylvain say to Byleth regarding Dimitri in chapter 37?"}
+{"chapter":37,"expectedGoldIds":["F072"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F072_paraphrase","query":"Can you tell me what Sylvain cautions Byleth about Dimitri in chapter 37?"}
+{"chapter":37,"expectedGoldIds":["F073"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F073_direct","query":"What is the relationship between Sylvain and Byleth in chapter 37?"}
+{"chapter":37,"expectedGoldIds":["F073"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F073_focused","query":"What does Sylvain think about Byleth by chapter 37?"}
+{"chapter":37,"expectedGoldIds":["F073"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F073_paraphrase","query":"Who does Sylvain have doubts about in chapter 37?"}
+{"chapter":38,"expectedGoldIds":["F074"],"focusCharacter":"Company","id":"F074_direct","query":"What health alert did the company issue in chapter 38?"}
+{"chapter":38,"expectedGoldIds":["F074"],"focusCharacter":"Company","id":"F074_focused","query":"What actions did the company take regarding health concerns in chapter 38?"}
+{"chapter":38,"expectedGoldIds":["F074"],"focusCharacter":"Company","id":"F074_paraphrase","query":"Can you tell me about the company's response to the virus situation in chapter 38?"}
+{"chapter":39,"expectedGoldIds":["F075"],"focusCharacter":"Felix","partner":"Ashe","id":"F075_direct","query":"What happens between Felix and Ashe regarding the virus in chapter 39?"}
+{"chapter":39,"expectedGoldIds":["F075"],"focusCharacter":"Felix","partner":"Ashe","id":"F075_focused","query":"How does Felix respond to Ashe's concerns in chapter 39?"}
+{"chapter":39,"expectedGoldIds":["F075"],"focusCharacter":"Felix","partner":"Ashe","id":"F075_paraphrase","query":"How does Felix react to Ashe's worries about the virus in chapter 39?"}
+{"chapter":39,"expectedGoldIds":["F076"],"focusCharacter":"Office","id":"F076_direct","query":"What does the office discuss about the virus memo in chapter 39?"}
+{"chapter":39,"expectedGoldIds":["F076"],"focusCharacter":"Office","id":"F076_focused","query":"What is the office's perspective on the virus memo in chapter 39?"}
+{"chapter":39,"expectedGoldIds":["F076"],"focusCharacter":"Office","id":"F076_paraphrase","query":"Can you tell me what the office talks about regarding the virus memo in chapter 39?"}
+{"chapter":40,"expectedGoldIds":["F077"],"focusCharacter":"Annette","partner":"Byleth","id":"F077_direct","query":"What does Annette share with Byleth and Mercedes in chapter 40?"}
+{"chapter":40,"expectedGoldIds":["F077"],"focusCharacter":"Annette","partner":"Byleth","id":"F077_focused","query":"How does Annette interact with Byleth and Mercedes in chapter 40?"}
+{"chapter":40,"expectedGoldIds":["F077"],"focusCharacter":"Annette","partner":"Byleth","id":"F077_paraphrase","query":"Can you tell me about the surprise Annette is excited about in chapter 40?"}
+{"chapter":40,"expectedGoldIds":["F078"],"focusCharacter":"Annette","partner":"Sylvain","id":"F078_direct","query":"What surprise does Annette plan for Sylvain in chapter 40?"}
+{"chapter":40,"expectedGoldIds":["F078"],"focusCharacter":"Annette","partner":"Sylvain","id":"F078_focused","query":"What is Annette doing for Sylvain in chapter 40?"}
+{"chapter":40,"expectedGoldIds":["F078"],"focusCharacter":"Annette","partner":"Sylvain","id":"F078_paraphrase","query":"Can you tell me about the surprise Annette has for Sylvain at the countryside inn in chapter 40?"}
+{"chapter":40,"expectedGoldIds":["F079"],"focusCharacter":"Annette","partner":"Byleth","id":"F079_direct","query":"What is the relationship between Annette, Byleth, and Mercedes in chapter 40?"}
+{"chapter":40,"expectedGoldIds":["F079"],"focusCharacter":"Annette","partner":"Byleth","id":"F079_focused","query":"How does Annette interact with Byleth and Mercedes by chapter 40?"}
+{"chapter":40,"expectedGoldIds":["F079"],"focusCharacter":"Annette","partner":"Byleth","id":"F079_paraphrase","query":"Who does Annette trust with her plans for Sylvain around chapter 40?"}
+{"chapter":41,"expectedGoldIds":["F080"],"focusCharacter":"Annette","partner":"Byleth","id":"F080_direct","query":"What secret does Annette ask Byleth and Mercedes to keep from Sylvain in chapter 41?"}
+{"chapter":41,"expectedGoldIds":["F080"],"focusCharacter":"Annette","partner":"Byleth","id":"F080_focused","query":"How does Annette interact with Byleth and Mercedes in chapter 41?"}
+{"chapter":41,"expectedGoldIds":["F080"],"focusCharacter":"Annette","partner":"Byleth","id":"F080_paraphrase","query":"Who does Annette trust to keep her romantic getaway a secret from Sylvain in chapter 41?"}
+{"chapter":41,"expectedGoldIds":[],"focusCharacter":"Annette","partner":"Byleth","id":"F080_negative","query":"Show Sylvain's relationships at chapter 41.","negativeGoldIds":["F081"]}
+{"chapter":41,"expectedGoldIds":["F081"],"focusCharacter":"Byleth","partner":"Annette","id":"F081_direct","query":"What happens between Byleth and Annette in chapter 41?"}
+{"chapter":41,"expectedGoldIds":["F081"],"focusCharacter":"Byleth","partner":"Annette","id":"F081_focused","query":"How does Byleth interact with Annette by chapter 41?"}
+{"chapter":41,"expectedGoldIds":["F081"],"focusCharacter":"Byleth","partner":"Annette","id":"F081_paraphrase","query":"Who does Annette trust to keep her secret in chapter 41?"}
+{"chapter":41,"expectedGoldIds":[],"focusCharacter":"Byleth","partner":"Annette","id":"F081_negative","query":"Show Sylvain's relationships at chapter 41.","negativeGoldIds":["F080"]}
+{"chapter":42,"expectedGoldIds":["F082"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F082_direct","query":"What happens between Byleth and Sylvain in chapter 42?"}
+{"chapter":42,"expectedGoldIds":["F082"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F082_focused","query":"How does Sylvain assist others by chapter 42?"}
+{"chapter":42,"expectedGoldIds":["F082"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F082_paraphrase","query":"Who does Byleth turn to for help with a systems integration issue in chapter 42?"}
+{"chapter":42,"expectedGoldIds":["F083"],"focusCharacter":"Annette's Planned Surprise","id":"F083_direct","query":"What conflict arises between Annette's surprise and Byleth's request to Sylvain in chapter 42?"}
+{"chapter":42,"expectedGoldIds":["F083"],"focusCharacter":"Annette's Planned Surprise","id":"F083_focused","query":"How does Annette's plan affect Sylvain in chapter 42?"}
+{"chapter":42,"expectedGoldIds":["F083"],"focusCharacter":"Annette's Planned Surprise","id":"F083_paraphrase","query":"Is there any issue between Annette's surprise and what Byleth asks Sylvain to do in chapter 42?"}
+{"chapter":43,"expectedGoldIds":["F084"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F084_direct","query":"How does Byleth ensure Sylvain's involvement in chapter 43?"}
+{"chapter":43,"expectedGoldIds":["F084"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F084_focused","query":"What is Sylvain's relationship with Byleth by chapter 43?"}
+{"chapter":43,"expectedGoldIds":["F084"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F084_paraphrase","query":"How does Byleth manage to get Sylvain on board in chapter 43?"}
+{"chapter":43,"expectedGoldIds":[],"focusCharacter":"Byleth","partner":"Sylvain","id":"F084_negative","query":"Show Annette's relationships at chapter 43.","negativeGoldIds":["F085"]}
+{"chapter":43,"expectedGoldIds":["F085"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F085_direct","query":"What is the relationship between Sylvain and Byleth in chapter 43?"}
+{"chapter":43,"expectedGoldIds":["F085"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F085_focused","query":"Show Sylvain's relationships by chapter 43."}
+{"chapter":43,"expectedGoldIds":["F085"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F085_paraphrase","query":"Is there any tension between Sylvain and Byleth around chapter 43?"}
+{"chapter":43,"expectedGoldIds":[],"focusCharacter":"Sylvain","partner":"Byleth","id":"F085_negative","query":"Show Annette's relationships at chapter 43.","negativeGoldIds":["F084"]}
+{"chapter":44,"expectedGoldIds":["F086"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F086_direct","query":"What does Sylvain do to help Byleth in chapter 44?"}
+{"chapter":44,"expectedGoldIds":["F086"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F086_focused","query":"How is Sylvain supporting others by chapter 44?"}
+{"chapter":44,"expectedGoldIds":["F086"],"focusCharacter":"Sylvain","partner":"Byleth","id":"F086_paraphrase","query":"How does Sylvain assist Byleth during the weekend in chapter 44?"}
+{"chapter":44,"expectedGoldIds":["F087"],"focusCharacter":"Byleth","id":"F087_direct","query":"What happens in chapter 44 regarding the sabotage?"}
+{"chapter":44,"expectedGoldIds":["F087"],"focusCharacter":"Byleth","id":"F087_focused","query":"What is Byleth's involvement in chapter 44?"}
+{"chapter":44,"expectedGoldIds":["F087"],"focusCharacter":"Byleth","id":"F087_paraphrase","query":"Can you tell me about the progress of the sabotage by chapter 44?"}
+{"chapter":45,"expectedGoldIds":["F088"],"focusCharacter":"Sylvain","partner":"Annette","id":"F088_direct","query":"What happens between Sylvain and Annette in chapter 45?"}
+{"chapter":45,"expectedGoldIds":["F088"],"focusCharacter":"Sylvain","partner":"Annette","id":"F088_focused","query":"How does Sylvain interact with Annette by chapter 45?"}
+{"chapter":45,"expectedGoldIds":["F088"],"focusCharacter":"Sylvain","partner":"Annette","id":"F088_paraphrase","query":"Why does Sylvain apologize to Annette in chapter 45?"}
+{"chapter":45,"expectedGoldIds":["F089"],"focusCharacter":"Sylvain","partner":"Annette","id":"F089_direct","query":"What happens between Sylvain and Annette in chapter 45?"}
+{"chapter":45,"expectedGoldIds":["F089"],"focusCharacter":"Sylvain","partner":"Annette","id":"F089_focused","query":"How does Sylvain interact with Annette by chapter 45?"}
+{"chapter":45,"expectedGoldIds":["F089"],"focusCharacter":"Sylvain","partner":"Annette","id":"F089_paraphrase","query":"Did Sylvain tell Annette the truth about his work situation in chapter 45?"}
+{"chapter":46,"expectedGoldIds":["F090"],"focusCharacter":"Annette","partner":"Unnamed Character","id":"F090_direct","query":"What happens between Annette and the unnamed character in chapter 46?"}
+{"chapter":46,"expectedGoldIds":["F090"],"focusCharacter":"Annette","partner":"Unnamed Character","id":"F090_focused","query":"How does Annette feel about the unnamed character in chapter 46?"}
+{"chapter":46,"expectedGoldIds":["F090"],"focusCharacter":"Annette","partner":"Unnamed Character","id":"F090_paraphrase","query":"Why is Annette disappointed with the unnamed character's excuse in chapter 46?"}
+{"chapter":47,"expectedGoldIds":["F091"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F091_direct","query":"What secret plan does Byleth share with Sylvain in chapter 47?"}
+{"chapter":47,"expectedGoldIds":["F091"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F091_focused","query":"What is Sylvain's involvement with Byleth in chapter 47?"}
+{"chapter":47,"expectedGoldIds":["F091"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F091_paraphrase","query":"Who does Byleth plan a secret weekend rendezvous with in chapter 47?"}
+{"chapter":47,"expectedGoldIds":["F092"],"focusCharacter":"Boutique Hotel","id":"F092_direct","query":"What event is planned at the boutique hotel in chapter 47?"}
+{"chapter":47,"expectedGoldIds":["F092"],"focusCharacter":"Boutique Hotel","id":"F092_focused","query":"What is happening at the boutique hotel just outside the city in chapter 47?"}
+{"chapter":47,"expectedGoldIds":["F092"],"focusCharacter":"Boutique Hotel","id":"F092_paraphrase","query":"Is there a meeting or event happening at a hotel near the city in chapter 47?"}
+{"chapter":48,"expectedGoldIds":["F093"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F093_direct","query":"What happens between Byleth and Sylvain in chapter 48?"}
+{"chapter":48,"expectedGoldIds":["F093"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F093_focused","query":"What is Sylvain's relationship with Byleth by chapter 48?"}
+{"chapter":48,"expectedGoldIds":["F093"],"focusCharacter":"Byleth","partner":"Sylvain","id":"F093_paraphrase","query":"Can you tell me about the affair between Byleth and Sylvain around chapter 48?"}
+{"chapter":48,"expectedGoldIds":["F094"],"focusCharacter":"Byleth","id":"F094_direct","query":"What is the nature of the relationship between Byleth and Sylvain in chapter 48?"}
+{"chapter":48,"expectedGoldIds":["F094"],"focusCharacter":"Byleth","id":"F094_focused","query":"How does Sylvain's relationship with Byleth develop by chapter 48?"}
+{"chapter":48,"expectedGoldIds":["F094"],"focusCharacter":"Byleth","id":"F094_paraphrase","query":"What's going on between Byleth and Sylvain around chapter 48?"}
+{"chapter":49,"expectedGoldIds":["F095"],"focusCharacter":"Sylvain","partner":"Annette","id":"F095_direct","query":"What happens between Sylvain and Annette in chapter 49?"}
+{"chapter":49,"expectedGoldIds":["F095"],"focusCharacter":"Sylvain","partner":"Annette","id":"F095_focused","query":"How does Sylvain's work affect his plans with Annette in chapter 49?"}
+{"chapter":49,"expectedGoldIds":["F095"],"focusCharacter":"Sylvain","partner":"Annette","id":"F095_paraphrase","query":"Did Sylvain have to change any plans with Annette because of work in chapter 49?"}
+{"chapter":49,"expectedGoldIds":[],"focusCharacter":"Sylvain","partner":"Annette","id":"F095_negative","query":"Show Byleth's relationships at chapter 49.","negativeGoldIds":["F096"]}
+{"chapter":49,"expectedGoldIds":["F096"],"focusCharacter":"Mercedes","partner":"Sylvain","id":"F096_direct","query":"What happens between Mercedes and Sylvain in chapter 49?"}
+{"chapter":49,"expectedGoldIds":["F096"],"focusCharacter":"Mercedes","partner":"Sylvain","id":"F096_focused","query":"How does Mercedes react to Sylvain's situation in chapter 49?"}
+{"chapter":49,"expectedGoldIds":["F096"],"focusCharacter":"Mercedes","partner":"Sylvain","id":"F096_paraphrase","query":"Why is Mercedes surprised about Sylvain's work issues in chapter 49?"}
+{"chapter":49,"expectedGoldIds":[],"focusCharacter":"Mercedes","partner":"Sylvain","id":"F096_negative","query":"Show Annette's relationships at chapter 49.","negativeGoldIds":["F095"]}
+{"chapter":50,"expectedGoldIds":["F097"],"focusCharacter":"Mercedes","partner":"Annette","id":"F097_direct","query":"What happens between Mercedes and Annette in chapter 50?"}
+{"chapter":50,"expectedGoldIds":["F097"],"focusCharacter":"Mercedes","partner":"Annette","id":"F097_focused","query":"How does Mercedes influence Annette by chapter 50?"}
+{"chapter":50,"expectedGoldIds":["F097"],"focusCharacter":"Mercedes","partner":"Annette","id":"F097_paraphrase","query":"Did Mercedes make Annette question anything in chapter 50?"}
+{"chapter":50,"expectedGoldIds":[],"focusCharacter":"Mercedes","partner":"Annette","id":"F097_negative","query":"Show Sylvain's relationships at chapter 50.","negativeGoldIds":["F098"]}
+{"chapter":50,"expectedGoldIds":["F098"],"focusCharacter":"Annette","partner":"Sylvain","id":"F098_direct","query":"What does Annette suspect about Sylvain in chapter 50?"}
+{"chapter":50,"expectedGoldIds":["F098"],"focusCharacter":"Annette","partner":"Sylvain","id":"F098_focused","query":"What are Annette's thoughts on Sylvain by chapter 50?"}
+{"chapter":50,"expectedGoldIds":["F098"],"focusCharacter":"Annette","partner":"Sylvain","id":"F098_paraphrase","query":"Is there anyone Annette thinks might be dishonest around chapter 50?"}
+{"chapter":50,"expectedGoldIds":[],"focusCharacter":"Annette","partner":"Sylvain","id":"F098_negative","query":"Show Byleth's relationships at chapter 50.","negativeGoldIds":["F097"]}

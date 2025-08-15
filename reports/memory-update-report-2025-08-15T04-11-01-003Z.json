@@ -1,0 +1,3229 @@
+{
+  "startTime": "2025-08-15T04:11:01.003Z",
+  "endTime": "2025-08-15T04:15:33.185Z",
+  "totalProcessingTime": 272182,
+  "chaptersProcessed": 50,
+  "chapterReports": [
+    {
+      "chapterNumber": 1,
+      "startTime": "2025-08-15T04:11:01.004Z",
+      "endTime": "2025-08-15T04:11:06.038Z",
+      "processingTime": 5034,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:03.654Z",
+          "chapterNumber": 1,
+          "action": "created",
+          "memory": {
+            "id": "6f559ad3-7854-46d5-a4f3-355fda84db5a",
+            "type": "WM",
+            "predicate": "evaluates",
+            "subjects": [
+              "Byleth Eisner"
+            ],
+            "canonical_fact": "Byleth Eisner evaluates the office ecosystem at Garreg Mach Corp",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:03.656Z",
+          "chapterNumber": 1,
+          "action": "created",
+          "memory": {
+            "id": "30b8011e-e05b-41eb-8ee1-ba29415058d2",
+            "type": "WM",
+            "predicate": "noted",
+            "subjects": [
+              "Dimitri",
+              "Sylvain",
+              "Felix"
+            ],
+            "canonical_fact": "Dimitri, Sylvain, and Felix are noted as key players at Garreg Mach Corp",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:03.651Z",
+          "chapterNumber": 1,
+          "action": "created",
+          "entity": {
+            "name": "Byleth Eisner",
+            "kind": "character"
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:03.655Z",
+          "chapterNumber": 1,
+          "action": "created",
+          "entity": {
+            "name": "Dimitri",
+            "kind": "character"
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:03.655Z",
+          "chapterNumber": 1,
+          "action": "created",
+          "entity": {
+            "name": "Sylvain",
+            "kind": "character"
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:03.655Z",
+          "chapterNumber": 1,
+          "action": "created",
+          "entity": {
+            "name": "Felix",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 0,
+        "activeMemories": 0,
+        "supersededMemories": 0,
+        "totalEntities": 2
+      },
+      "storeStateAfter": {
+        "totalMemories": 2,
+        "activeMemories": 2,
+        "supersededMemories": 0,
+        "totalEntities": 6
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 2,
+      "startTime": "2025-08-15T04:11:06.039Z",
+      "endTime": "2025-08-15T04:11:09.794Z",
+      "processingTime": 3755,
+      "memoriesExtracted": 1,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:08.337Z",
+          "chapterNumber": 2,
+          "action": "created",
+          "memory": {
+            "id": "58417cf1-a444-4820-9e07-2f4939287783",
+            "type": "IC",
+            "predicate": "shares intimacy",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Annette"
+            ],
+            "canonical_fact": "Sylvain and Annette share an easy intimacy",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:08.335Z",
+          "chapterNumber": 2,
+          "action": "created",
+          "entity": {
+            "name": "Annette",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 2,
+        "activeMemories": 2,
+        "supersededMemories": 0,
+        "totalEntities": 6
+      },
+      "storeStateAfter": {
+        "totalMemories": 3,
+        "activeMemories": 3,
+        "supersededMemories": 0,
+        "totalEntities": 7
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 3,
+      "startTime": "2025-08-15T04:11:09.796Z",
+      "endTime": "2025-08-15T04:11:17.292Z",
+      "processingTime": 7496,
+      "memoriesExtracted": 1,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:15.244Z",
+          "chapterNumber": 3,
+          "action": "created",
+          "memory": {
+            "id": "5feb88b4-46b3-40a0-b3c5-f3076b484478",
+            "type": "IC",
+            "predicate": "seeks_help",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Byleth seeks help from Dimitri to create a personal connection",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:15.246Z",
+          "chapterNumber": 3,
+          "action": "created",
+          "memory": {
+            "id": "74f32606-f3a5-4953-8430-463ff95539f9",
+            "type": "IC",
+            "predicate": "monitors",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Byleth closely monitors Dimitri's reaction",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:15.242Z",
+          "chapterNumber": 3,
+          "action": "created",
+          "entity": {
+            "name": "Byleth",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 3,
+        "activeMemories": 3,
+        "supersededMemories": 0,
+        "totalEntities": 7
+      },
+      "storeStateAfter": {
+        "totalMemories": 5,
+        "activeMemories": 5,
+        "supersededMemories": 0,
+        "totalEntities": 8
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 4,
+      "startTime": "2025-08-15T04:11:17.293Z",
+      "endTime": "2025-08-15T04:11:21.594Z",
+      "processingTime": 4301,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:19.630Z",
+          "chapterNumber": 4,
+          "action": "created",
+          "memory": {
+            "id": "eaf20605-d7a9-4e74-b88f-7084b135bbfe",
+            "type": "IC",
+            "predicate": "engages",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth engages Sylvain with witty banter and compliments",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:19.632Z",
+          "chapterNumber": 4,
+          "action": "created",
+          "memory": {
+            "id": "6dfbc234-5316-4afe-9575-a34193be360e",
+            "type": "IC",
+            "predicate": "intrigued_by",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Sylvain is intrigued by Byleth's attention",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 5,
+        "activeMemories": 5,
+        "supersededMemories": 0,
+        "totalEntities": 8
+      },
+      "storeStateAfter": {
+        "totalMemories": 7,
+        "activeMemories": 7,
+        "supersededMemories": 0,
+        "totalEntities": 8
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 5,
+      "startTime": "2025-08-15T04:11:21.595Z",
+      "endTime": "2025-08-15T04:11:25.238Z",
+      "processingTime": 3643,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:23.363Z",
+          "chapterNumber": 5,
+          "action": "created",
+          "memory": {
+            "id": "6bae0292-81f3-449a-8ab5-dc62f326f137",
+            "type": "IC",
+            "predicate": "offers assistance",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Byleth offers assistance to Dimitri",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:23.365Z",
+          "chapterNumber": 5,
+          "action": "created",
+          "memory": {
+            "id": "5da53ba6-d8da-40ec-bba6-886e29ccaaf4",
+            "type": "WM",
+            "predicate": "office empties",
+            "subjects": [
+              "Office"
+            ],
+            "canonical_fact": "The office slowly empties",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:23.364Z",
+          "chapterNumber": 5,
+          "action": "created",
+          "entity": {
+            "name": "Office",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 7,
+        "activeMemories": 7,
+        "supersededMemories": 0,
+        "totalEntities": 8
+      },
+      "storeStateAfter": {
+        "totalMemories": 9,
+        "activeMemories": 9,
+        "supersededMemories": 0,
+        "totalEntities": 9
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 6,
+      "startTime": "2025-08-15T04:11:25.239Z",
+      "endTime": "2025-08-15T04:11:30.455Z",
+      "processingTime": 5216,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:28.334Z",
+          "chapterNumber": 6,
+          "action": "created",
+          "memory": {
+            "id": "906cf466-7869-4cf5-9a3f-4422826d34d1",
+            "type": "IC",
+            "predicate": "escalates_tension",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Byleth escalates tension with Dimitri through deliberate actions",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:28.337Z",
+          "chapterNumber": 6,
+          "action": "created",
+          "memory": {
+            "id": "419f8338-2fc5-4456-9298-b5f799c4f4e3",
+            "type": "IC",
+            "predicate": "focuses_on",
+            "subjects": [
+              "Dimitri"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Dimitri's focus begins to waver towards Byleth",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 9,
+        "activeMemories": 9,
+        "supersededMemories": 0,
+        "totalEntities": 9
+      },
+      "storeStateAfter": {
+        "totalMemories": 11,
+        "activeMemories": 11,
+        "supersededMemories": 0,
+        "totalEntities": 9
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 7,
+      "startTime": "2025-08-15T04:11:30.457Z",
+      "endTime": "2025-08-15T04:11:35.328Z",
+      "processingTime": 4871,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:33.440Z",
+          "chapterNumber": 7,
+          "action": "created",
+          "memory": {
+            "id": "2d4509a6-0ee8-4632-bba8-893e75a52117",
+            "type": "IC",
+            "predicate": "initiates_kiss",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Byleth initiates a kiss with Dimitri",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:33.443Z",
+          "chapterNumber": 7,
+          "action": "created",
+          "memory": {
+            "id": "3c597466-86ee-4737-a932-dc5f2911a7bf",
+            "type": "IC",
+            "predicate": "returns_kiss",
+            "subjects": [
+              "Dimitri"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Dimitri returns Byleth's kiss with fervor",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:33.445Z",
+          "chapterNumber": 7,
+          "action": "created",
+          "memory": {
+            "id": "1f006afb-fb6a-4614-912d-05f8eed5e5d4",
+            "type": "WM",
+            "predicate": "affair_ignites",
+            "subjects": [
+              "Corporate Building"
+            ],
+            "canonical_fact": "An affair ignites in the corporate building after dark",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:33.444Z",
+          "chapterNumber": 7,
+          "action": "created",
+          "entity": {
+            "name": "Corporate Building",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 11,
+        "activeMemories": 11,
+        "supersededMemories": 0,
+        "totalEntities": 9
+      },
+      "storeStateAfter": {
+        "totalMemories": 14,
+        "activeMemories": 14,
+        "supersededMemories": 0,
+        "totalEntities": 10
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 8,
+      "startTime": "2025-08-15T04:11:35.330Z",
+      "endTime": "2025-08-15T04:11:39.367Z",
+      "processingTime": 4037,
+      "memoriesExtracted": 1,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:37.439Z",
+          "chapterNumber": 8,
+          "action": "created",
+          "memory": {
+            "id": "a7587991-15f0-4b70-86ae-a099e1b062c6",
+            "type": "WM",
+            "predicate": "leaves",
+            "subjects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Byleth leaves Dimitri's office before anyone arrives",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 14,
+        "activeMemories": 14,
+        "supersededMemories": 0,
+        "totalEntities": 10
+      },
+      "storeStateAfter": {
+        "totalMemories": 15,
+        "activeMemories": 15,
+        "supersededMemories": 0,
+        "totalEntities": 10
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 9,
+      "startTime": "2025-08-15T04:11:39.369Z",
+      "endTime": "2025-08-15T04:11:44.082Z",
+      "processingTime": 4713,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:41.746Z",
+          "chapterNumber": 9,
+          "action": "created",
+          "memory": {
+            "id": "57ed815c-38ed-4e52-9edd-9cbf37dffc17",
+            "type": "IC",
+            "predicate": "notices",
+            "subjects": [
+              "Dedue"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Dedue notices Byleth's disheveled state",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:41.747Z",
+          "chapterNumber": 9,
+          "action": "created",
+          "memory": {
+            "id": "f30a49c9-b8ea-4497-8b8e-e4e1214cfad4",
+            "type": "C2U",
+            "predicate": "feels seen",
+            "subjects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Byleth feels seen by the User",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:41.744Z",
+          "chapterNumber": 9,
+          "action": "created",
+          "entity": {
+            "name": "Dedue",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 15,
+        "activeMemories": 15,
+        "supersededMemories": 0,
+        "totalEntities": 10
+      },
+      "storeStateAfter": {
+        "totalMemories": 17,
+        "activeMemories": 17,
+        "supersededMemories": 0,
+        "totalEntities": 11
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 10,
+      "startTime": "2025-08-15T04:11:44.083Z",
+      "endTime": "2025-08-15T04:11:48.676Z",
+      "processingTime": 4593,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:46.422Z",
+          "chapterNumber": 10,
+          "action": "created",
+          "memory": {
+            "id": "1ff54576-273c-45d3-8ed6-3f758a9a0b4a",
+            "type": "IC",
+            "predicate": "confirms mutual feelings",
+            "subjects": [
+              "Dimitri"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Dimitri confirms that the intensity of their encounter with Byleth was mutual and not regretted",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:46.424Z",
+          "chapterNumber": 10,
+          "action": "created",
+          "memory": {
+            "id": "ea591a00-e686-42e7-bb75-a3b5511cf0b4",
+            "type": "IC",
+            "predicate": "solidifies connection",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Byleth solidifies the connection with Dimitri while maintaining control over the narrative",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 17,
+        "activeMemories": 17,
+        "supersededMemories": 0,
+        "totalEntities": 11
+      },
+      "storeStateAfter": {
+        "totalMemories": 19,
+        "activeMemories": 19,
+        "supersededMemories": 0,
+        "totalEntities": 11
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 11,
+      "startTime": "2025-08-15T04:11:48.677Z",
+      "endTime": "2025-08-15T04:11:53.402Z",
+      "processingTime": 4725,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:51.012Z",
+          "chapterNumber": 11,
+          "action": "created",
+          "memory": {
+            "id": "0a63cd68-1b55-41a6-8066-6b98154c4856",
+            "type": "IC",
+            "predicate": "initiates conversation",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth initiates a playful conversation with Sylvain",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:51.014Z",
+          "chapterNumber": 11,
+          "action": "created",
+          "memory": {
+            "id": "520ba1db-8f3c-4353-91f6-9b0045ba6c05",
+            "type": "IC",
+            "predicate": "exchanges contact information",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth and Sylvain exchange contact information",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 19,
+        "activeMemories": 19,
+        "supersededMemories": 0,
+        "totalEntities": 11
+      },
+      "storeStateAfter": {
+        "totalMemories": 21,
+        "activeMemories": 21,
+        "supersededMemories": 0,
+        "totalEntities": 11
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 12,
+      "startTime": "2025-08-15T04:11:53.404Z",
+      "endTime": "2025-08-15T04:12:01.688Z",
+      "processingTime": 8284,
+      "memoriesExtracted": 4,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:56.811Z",
+          "chapterNumber": 12,
+          "action": "created",
+          "memory": {
+            "id": "13d81ec4-ccaf-42c6-8945-3fdefd34c6ff",
+            "type": "IC",
+            "predicate": "shares_affection",
+            "subjects": [
+              "Annette"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Annette shares genuine affection with Byleth",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:56.812Z",
+          "chapterNumber": 12,
+          "action": "created",
+          "memory": {
+            "id": "9481319c-48d2-461b-a0b0-f2badee3b7e8",
+            "type": "IC",
+            "predicate": "smiles_at",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Annette"
+            ],
+            "canonical_fact": "Byleth offers Annette a bright, friendly smile",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:56.814Z",
+          "chapterNumber": 12,
+          "action": "created",
+          "memory": {
+            "id": "d46e949a-c465-41b4-b7d0-a5017eddec64",
+            "type": "WM",
+            "predicate": "essential",
+            "subjects": [
+              "Mask"
+            ],
+            "canonical_fact": "The mask is essential",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:11:56.816Z",
+          "chapterNumber": 12,
+          "action": "created",
+          "memory": {
+            "id": "5f9b06e1-eaf6-4282-9741-5200bab9f2c1",
+            "type": "WM",
+            "predicate": "sharpens_resolve",
+            "subjects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Witnessing their bond sharpens Byleth's resolve",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:11:56.813Z",
+          "chapterNumber": 12,
+          "action": "created",
+          "entity": {
+            "name": "Mask",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 21,
+        "activeMemories": 21,
+        "supersededMemories": 0,
+        "totalEntities": 11
+      },
+      "storeStateAfter": {
+        "totalMemories": 25,
+        "activeMemories": 25,
+        "supersededMemories": 0,
+        "totalEntities": 12
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 13,
+      "startTime": "2025-08-15T04:12:01.691Z",
+      "endTime": "2025-08-15T04:12:07.404Z",
+      "processingTime": 5713,
+      "memoriesExtracted": 3,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:12:04.764Z",
+          "chapterNumber": 13,
+          "action": "created",
+          "memory": {
+            "id": "5433fc75-e2a6-46a7-93b5-89631ee34c44",
+            "type": "IC",
+            "predicate": "sends suggestive text",
+            "subjects": [
+              "Dimitri"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Dimitri sends a suggestive text to Byleth",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:12:04.767Z",
+          "chapterNumber": 13,
+          "action": "created",
+          "memory": {
+            "id": "384ea978-8e3d-4a06-8e78-71b4633198fe",
+            "type": "IC",
+            "predicate": "sends suggestive text",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Sylvain sends a suggestive text to Byleth",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:12:04.768Z",
+          "chapterNumber": 13,
+          "action": "created",
+          "memory": {
+            "id": "e31ad5fc-d79c-4c30-9d0c-070b18ab98b6",
+            "type": "WM",
+            "predicate": "manages secrets",
+            "subjects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Byleth's phone is a hub of dangerous secrets needing constant management",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 25,
+        "activeMemories": 25,
+        "supersededMemories": 0,
+        "totalEntities": 12
+      },
+      "storeStateAfter": {
+        "totalMemories": 28,
+        "activeMemories": 28,
+        "supersededMemories": 0,
+        "totalEntities": 12
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 14,
+      "startTime": "2025-08-15T04:12:07.407Z",
+      "endTime": "2025-08-15T04:12:11.984Z",
+      "processingTime": 4577,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:12:09.707Z",
+          "chapterNumber": 14,
+          "action": "created",
+          "memory": {
+            "id": "5a129c80-71eb-49c9-8ee0-73c1a5d89e1e",
+            "type": "IC",
+            "predicate": "scrutinizes",
+            "subjects": [
+              "Felix"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Felix scrutinizes Byleth's actions",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:12:09.709Z",
+          "chapterNumber": 14,
+          "action": "created",
+          "memory": {
+            "id": "8d0e20d7-4267-4003-8d79-da5d6aa79784",
+            "type": "IC",
+            "predicate": "realizes scrutiny from",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Felix"
+            ],
+            "canonical_fact": "Byleth realizes they have attracted scrutiny from Felix",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 28,
+        "activeMemories": 28,
+        "supersededMemories": 0,
+        "totalEntities": 12
+      },
+      "storeStateAfter": {
+        "totalMemories": 30,
+        "activeMemories": 30,
+        "supersededMemories": 0,
+        "totalEntities": 12
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 15,
+      "startTime": "2025-08-15T04:12:11.987Z",
+      "endTime": "2025-08-15T04:12:16.253Z",
+      "processingTime": 4266,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:12:14.136Z",
+          "chapterNumber": 15,
+          "action": "created",
+          "memory": {
+            "id": "a1c3ebeb-cae0-4166-9e1b-138fcb314e59",
+            "type": "IC",
+            "predicate": "invites",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth invites Sylvain for drinks at a secretive location",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:12:14.138Z",
+          "chapterNumber": 15,
+          "action": "created",
+          "memory": {
+            "id": "c5752d82-9ddc-4683-88f9-f3ee47d84b15",
+            "type": "WM",
+            "predicate": "chosen_for_secrecy",
+            "subjects": [
+              "The Lost Saint"
+            ],
+            "canonical_fact": "The Lost Saint is chosen for its privacy and secrecy",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:12:14.137Z",
+          "chapterNumber": 15,
+          "action": "created",
+          "entity": {
+            "name": "The Lost Saint",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 30,
+        "activeMemories": 30,
+        "supersededMemories": 0,
+        "totalEntities": 12
+      },
+      "storeStateAfter": {
+        "totalMemories": 32,
+        "activeMemories": 32,
+        "supersededMemories": 0,
+        "totalEntities": 13
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 16,
+      "startTime": "2025-08-15T04:12:16.255Z",
+      "endTime": "2025-08-15T04:12:20.832Z",
+      "processingTime": 4577,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:12:18.734Z",
+          "chapterNumber": 16,
+          "action": "created",
+          "memory": {
+            "id": "95a824e8-1d06-4bed-96ef-cfc4d32bb50c",
+            "type": "IC",
+            "predicate": "deceives",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Byleth deceives Dimitri with a fictional family issue",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:12:18.736Z",
+          "chapterNumber": 16,
+          "action": "created",
+          "memory": {
+            "id": "a00fcec0-660f-4dd7-8ef6-e25639a0461c",
+            "type": "IC",
+            "predicate": "plans date",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth plans a date with Sylvain",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 32,
+        "activeMemories": 32,
+        "supersededMemories": 0,
+        "totalEntities": 13
+      },
+      "storeStateAfter": {
+        "totalMemories": 34,
+        "activeMemories": 34,
+        "supersededMemories": 0,
+        "totalEntities": 13
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 17,
+      "startTime": "2025-08-15T04:12:20.834Z",
+      "endTime": "2025-08-15T04:12:27.765Z",
+      "processingTime": 6931,
+      "memoriesExtracted": 3,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:12:24.880Z",
+          "chapterNumber": 17,
+          "action": "created",
+          "memory": {
+            "id": "34074f2f-f6d8-4d18-ba6b-428cddee8ed2",
+            "type": "IC",
+            "predicate": "experiences chemistry with",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth experiences intense chemistry with Sylvain",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:12:24.882Z",
+          "chapterNumber": 17,
+          "action": "created",
+          "memory": {
+            "id": "3fc37e60-5b39-4610-861b-b53e73e96ca2",
+            "type": "IC",
+            "predicate": "engages in flirtation with",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth engages in flirtation with Sylvain",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:12:24.883Z",
+          "chapterNumber": 17,
+          "action": "created",
+          "memory": {
+            "id": "3f0e3738-1836-43fe-9ef1-d541556298a6",
+            "type": "IC",
+            "predicate": "has a playful dynamic with",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth has a playful, adventurous, and overtly physical dynamic with Sylvain",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 34,
+        "activeMemories": 34,
+        "supersededMemories": 0,
+        "totalEntities": 13
+      },
+      "storeStateAfter": {
+        "totalMemories": 37,
+        "activeMemories": 37,
+        "supersededMemories": 0,
+        "totalEntities": 13
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 18,
+      "startTime": "2025-08-15T04:12:27.767Z",
+      "endTime": "2025-08-15T04:12:33.279Z",
+      "processingTime": 5512,
+      "memoriesExtracted": 1,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:12:31.487Z",
+          "chapterNumber": 18,
+          "action": "created",
+          "memory": {
+            "id": "de84085d-389f-4f8b-a22b-fd5acbe79858",
+            "type": "IC",
+            "predicate": "agrees to secrecy",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth secures Sylvain's agreement to keep the matter secret",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:12:31.488Z",
+          "chapterNumber": 18,
+          "action": "created",
+          "memory": {
+            "id": "f20c7b68-0e57-484c-ac1f-4ae521f5f1cc",
+            "type": "IC",
+            "predicate": "captivated by secrecy",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Sylvain is captivated by the illicit nature of the secret with Byleth",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 37,
+        "activeMemories": 37,
+        "supersededMemories": 0,
+        "totalEntities": 13
+      },
+      "storeStateAfter": {
+        "totalMemories": 39,
+        "activeMemories": 39,
+        "supersededMemories": 0,
+        "totalEntities": 13
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 19,
+      "startTime": "2025-08-15T04:12:33.282Z",
+      "endTime": "2025-08-15T04:12:36.924Z",
+      "processingTime": 3642,
+      "memoriesExtracted": 1,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:12:35.060Z",
+          "chapterNumber": 19,
+          "action": "created",
+          "memory": {
+            "id": "25112970-faf1-4883-a6ef-bbf7332e5472",
+            "type": "IC",
+            "predicate": "coordinates_secret_departure",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Unnamed Partner"
+            ],
+            "canonical_fact": "Sylvain and an unnamed partner coordinate a secret departure from a hotel.",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:12:35.057Z",
+          "chapterNumber": 19,
+          "action": "created",
+          "entity": {
+            "name": "Unnamed Partner",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 39,
+        "activeMemories": 39,
+        "supersededMemories": 0,
+        "totalEntities": 13
+      },
+      "storeStateAfter": {
+        "totalMemories": 40,
+        "activeMemories": 40,
+        "supersededMemories": 0,
+        "totalEntities": 14
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 20,
+      "startTime": "2025-08-15T04:12:36.928Z",
+      "endTime": "2025-08-15T04:12:43.521Z",
+      "processingTime": 6593,
+      "memoriesExtracted": 3,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:12:40.238Z",
+          "chapterNumber": 20,
+          "action": "created",
+          "memory": {
+            "id": "2045d52a-8fa2-4fbb-a7ec-4cfd4d1b70e3",
+            "type": "IC",
+            "predicate": "confides",
+            "subjects": [
+              "Annette"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Annette confides in Byleth about her happiness and Sylvain's attentiveness",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:12:40.241Z",
+          "chapterNumber": 20,
+          "action": "created",
+          "memory": {
+            "id": "b69053be-f030-46b3-a5ea-fa3534e6898b",
+            "type": "IC",
+            "predicate": "attentive_to",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Annette"
+            ],
+            "canonical_fact": "Sylvain has been attentive to Annette",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:12:40.242Z",
+          "chapterNumber": 20,
+          "action": "created",
+          "memory": {
+            "id": "149476d5-56ff-475e-ad69-e96567f9d8a7",
+            "type": "IC",
+            "predicate": "recognizes_irony",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth recognizes the irony in Sylvain's attentiveness",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 40,
+        "activeMemories": 40,
+        "supersededMemories": 0,
+        "totalEntities": 14
+      },
+      "storeStateAfter": {
+        "totalMemories": 43,
+        "activeMemories": 43,
+        "supersededMemories": 0,
+        "totalEntities": 14
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 21,
+      "startTime": "2025-08-15T04:12:43.523Z",
+      "endTime": "2025-08-15T04:12:47.844Z",
+      "processingTime": 4321,
+      "memoriesExtracted": 1,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:12:45.651Z",
+          "chapterNumber": 21,
+          "action": "created",
+          "memory": {
+            "id": "402066ba-7946-4219-a42b-d3c68359366a",
+            "type": "IC",
+            "predicate": "trusts",
+            "subjects": [
+              "Annette"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Annette trusts Byleth as a friend and shares personal details",
+            "confidence": 0.9
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 43,
+        "activeMemories": 43,
+        "supersededMemories": 0,
+        "totalEntities": 14
+      },
+      "storeStateAfter": {
+        "totalMemories": 44,
+        "activeMemories": 44,
+        "supersededMemories": 0,
+        "totalEntities": 14
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 22,
+      "startTime": "2025-08-15T04:12:47.847Z",
+      "endTime": "2025-08-15T04:12:52.918Z",
+      "processingTime": 5071,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:12:50.285Z",
+          "chapterNumber": 22,
+          "action": "superseded",
+          "memory": {
+            "id": "d608b769-34f2-40f0-89f1-03a842a87308",
+            "type": "IC",
+            "predicate": "trusts",
+            "subjects": [
+              "Annette"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Annette trusts Byleth",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:12:50.287Z",
+          "chapterNumber": 22,
+          "action": "created",
+          "memory": {
+            "id": "ce4e43e0-e068-4667-95fc-bb90a2c9c371",
+            "type": "IC",
+            "predicate": "supports",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Annette"
+            ],
+            "canonical_fact": "Byleth supports Annette with empathy",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 44,
+        "activeMemories": 44,
+        "supersededMemories": 0,
+        "totalEntities": 14
+      },
+      "storeStateAfter": {
+        "totalMemories": 45,
+        "activeMemories": 45,
+        "supersededMemories": 0,
+        "totalEntities": 14
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 23,
+      "startTime": "2025-08-15T04:12:52.921Z",
+      "endTime": "2025-08-15T04:12:57.821Z",
+      "processingTime": 4900,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:12:55.404Z",
+          "chapterNumber": 23,
+          "action": "created",
+          "memory": {
+            "id": "0f5d2754-d583-4e13-bedd-86a89d5bd51d",
+            "type": "IC",
+            "predicate": "invites",
+            "subjects": [
+              "Dimitri"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Dimitri invites Byleth to dinner at his apartment",
+            "confidence": 0.9
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:12:55.406Z",
+          "chapterNumber": 23,
+          "action": "created",
+          "memory": {
+            "id": "51278a38-696d-461c-9b78-87062423f75f",
+            "type": "IC",
+            "predicate": "recognizes significance",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Byleth recognizes the significance of Dimitri's invitation",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 45,
+        "activeMemories": 45,
+        "supersededMemories": 0,
+        "totalEntities": 14
+      },
+      "storeStateAfter": {
+        "totalMemories": 47,
+        "activeMemories": 47,
+        "supersededMemories": 0,
+        "totalEntities": 14
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 24,
+      "startTime": "2025-08-15T04:12:57.825Z",
+      "endTime": "2025-08-15T04:13:02.376Z",
+      "processingTime": 4551,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:13:00.443Z",
+          "chapterNumber": 24,
+          "action": "created",
+          "memory": {
+            "id": "31d032a7-055e-4ea5-82fc-2da198a7de29",
+            "type": "IC",
+            "predicate": "observes",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Byleth observes Dimitri in his private domain",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:13:00.445Z",
+          "chapterNumber": 24,
+          "action": "created",
+          "memory": {
+            "id": "bfb7f1d4-91b6-4af7-9eaa-ea0a3528aad9",
+            "type": "WM",
+            "predicate": "describes",
+            "subjects": [
+              "Dimitri's Home"
+            ],
+            "canonical_fact": "Dimitri's home is spacious, ordered, and intense",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:13:00.445Z",
+          "chapterNumber": 24,
+          "action": "created",
+          "entity": {
+            "name": "Dimitri's Home",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 47,
+        "activeMemories": 47,
+        "supersededMemories": 0,
+        "totalEntities": 14
+      },
+      "storeStateAfter": {
+        "totalMemories": 49,
+        "activeMemories": 49,
+        "supersededMemories": 0,
+        "totalEntities": 15
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 25,
+      "startTime": "2025-08-15T04:13:02.380Z",
+      "endTime": "2025-08-15T04:13:06.703Z",
+      "processingTime": 4323,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:13:04.499Z",
+          "chapterNumber": 25,
+          "action": "created",
+          "memory": {
+            "id": "e9614770-e51b-4276-9699-23677a9e26ec",
+            "type": "IC",
+            "predicate": "maintains secrecy",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Byleth maintains secrecy about their relationship with Dimitri",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:13:04.500Z",
+          "chapterNumber": 25,
+          "action": "created",
+          "memory": {
+            "id": "b8685b81-6503-459a-add1-741eb3f890bc",
+            "type": "WM",
+            "predicate": "navigates carefully",
+            "subjects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Byleth navigates carefully to avoid detection",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 49,
+        "activeMemories": 49,
+        "supersededMemories": 0,
+        "totalEntities": 15
+      },
+      "storeStateAfter": {
+        "totalMemories": 51,
+        "activeMemories": 51,
+        "supersededMemories": 0,
+        "totalEntities": 15
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 26,
+      "startTime": "2025-08-15T04:13:06.707Z",
+      "endTime": "2025-08-15T04:13:10.351Z",
+      "processingTime": 3644,
+      "memoriesExtracted": 1,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:13:08.506Z",
+          "chapterNumber": 26,
+          "action": "created",
+          "memory": {
+            "id": "8b38cf0a-415f-4d4b-bb61-91362b098860",
+            "type": "IC",
+            "predicate": "discovers",
+            "subjects": [
+              "Dedue"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Dedue discovers evidence of Byleth's presence in Dimitri's living space",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 51,
+        "activeMemories": 51,
+        "supersededMemories": 0,
+        "totalEntities": 15
+      },
+      "storeStateAfter": {
+        "totalMemories": 52,
+        "activeMemories": 52,
+        "supersededMemories": 0,
+        "totalEntities": 15
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 27,
+      "startTime": "2025-08-15T04:13:10.355Z",
+      "endTime": "2025-08-15T04:13:15.854Z",
+      "processingTime": 5499,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:13:13.041Z",
+          "chapterNumber": 27,
+          "action": "created",
+          "memory": {
+            "id": "6a247ae8-14bc-4bb6-9a83-64dcf385b9c2",
+            "type": "IC",
+            "predicate": "advises",
+            "subjects": [
+              "Dedue"
+            ],
+            "objects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Dedue advises Dimitri to be prudent about workplace entanglements",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:13:13.043Z",
+          "chapterNumber": 27,
+          "action": "created",
+          "memory": {
+            "id": "83862f02-da08-450a-bc3b-195d1eaeb754",
+            "type": "IC",
+            "predicate": "protects",
+            "subjects": [
+              "Dedue"
+            ],
+            "objects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Dedue attempts to protect Dimitri from potential scandal",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 52,
+        "activeMemories": 52,
+        "supersededMemories": 0,
+        "totalEntities": 15
+      },
+      "storeStateAfter": {
+        "totalMemories": 54,
+        "activeMemories": 54,
+        "supersededMemories": 0,
+        "totalEntities": 15
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 28,
+      "startTime": "2025-08-15T04:13:15.857Z",
+      "endTime": "2025-08-15T04:13:20.502Z",
+      "processingTime": 4645,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:13:18.610Z",
+          "chapterNumber": 28,
+          "action": "created",
+          "memory": {
+            "id": "d73a5e53-8032-4f93-a355-510c2e1045c1",
+            "type": "IC",
+            "predicate": "reassures",
+            "subjects": [
+              "Dimitri"
+            ],
+            "objects": [
+              "Dedue"
+            ],
+            "canonical_fact": "Dimitri reassures Dedue that the situation is under control",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:13:18.612Z",
+          "chapterNumber": 28,
+          "action": "created",
+          "memory": {
+            "id": "d1ddbdeb-3d4f-472b-bf2d-85d8b8632923",
+            "type": "IC",
+            "predicate": "concerns",
+            "subjects": [
+              "Dedue"
+            ],
+            "objects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Dedue is concerned about Dimitri's situation",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:13:18.614Z",
+          "chapterNumber": 28,
+          "action": "created",
+          "memory": {
+            "id": "56dc4943-d88a-46ef-9cf9-6e4d56ff34c3",
+            "type": "WM",
+            "predicate": "infatuated",
+            "subjects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Dimitri's infatuation overrides his usual caution",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 54,
+        "activeMemories": 54,
+        "supersededMemories": 0,
+        "totalEntities": 15
+      },
+      "storeStateAfter": {
+        "totalMemories": 57,
+        "activeMemories": 57,
+        "supersededMemories": 0,
+        "totalEntities": 15
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 29,
+      "startTime": "2025-08-15T04:13:20.507Z",
+      "endTime": "2025-08-15T04:13:26.308Z",
+      "processingTime": 5801,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:13:23.086Z",
+          "chapterNumber": 29,
+          "action": "superseded",
+          "memory": {
+            "id": "4830973e-37de-4a40-b772-08a80b7a5682",
+            "type": "IC",
+            "predicate": "invites",
+            "subjects": [
+              "Dimitri"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Dimitri invites Byleth to lunch at 'La Maison'",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:13:23.088Z",
+          "chapterNumber": 29,
+          "action": "created",
+          "memory": {
+            "id": "47aefcfa-2aeb-47c7-b959-8ee51e6519c8",
+            "type": "WM",
+            "predicate": "frequented_by_colleagues",
+            "subjects": [
+              "La Maison"
+            ],
+            "canonical_fact": "'La Maison' is a restaurant frequented by their colleagues",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:13:23.087Z",
+          "chapterNumber": 29,
+          "action": "created",
+          "entity": {
+            "name": "La Maison",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 57,
+        "activeMemories": 57,
+        "supersededMemories": 0,
+        "totalEntities": 15
+      },
+      "storeStateAfter": {
+        "totalMemories": 58,
+        "activeMemories": 58,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 30,
+      "startTime": "2025-08-15T04:13:26.311Z",
+      "endTime": "2025-08-15T04:13:30.290Z",
+      "processingTime": 3979,
+      "memoriesExtracted": 1,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:13:28.083Z",
+          "chapterNumber": 30,
+          "action": "created",
+          "memory": {
+            "id": "15bd3458-2569-4de2-b834-287755393bc6",
+            "type": "IC",
+            "predicate": "claims",
+            "subjects": [
+              "Dimitri"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Dimitri claims Byleth with an intimate gesture",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 58,
+        "activeMemories": 58,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "storeStateAfter": {
+        "totalMemories": 59,
+        "activeMemories": 59,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 31,
+      "startTime": "2025-08-15T04:13:30.294Z",
+      "endTime": "2025-08-15T04:13:36.425Z",
+      "processingTime": 6131,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:13:34.141Z",
+          "chapterNumber": 31,
+          "action": "created",
+          "memory": {
+            "id": "e19cef03-7146-4d92-9ff5-a07bb394e298",
+            "type": "IC",
+            "predicate": "covers hand possessively",
+            "subjects": [
+              "Dimitri"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Dimitri covers Byleth's hand possessively",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:13:34.143Z",
+          "chapterNumber": 31,
+          "action": "created",
+          "memory": {
+            "id": "c08fc661-92cd-46e8-854b-26ee82b78b78",
+            "type": "IC",
+            "predicate": "feels betrayed",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Dimitri",
+              "Byleth"
+            ],
+            "canonical_fact": "Sylvain feels betrayed by Dimitri and Byleth",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 59,
+        "activeMemories": 59,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "storeStateAfter": {
+        "totalMemories": 61,
+        "activeMemories": 61,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 32,
+      "startTime": "2025-08-15T04:13:36.428Z",
+      "endTime": "2025-08-15T04:13:41.109Z",
+      "processingTime": 4681,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:13:38.751Z",
+          "chapterNumber": 32,
+          "action": "created",
+          "memory": {
+            "id": "75572cfd-6612-4615-bc46-7344c5802090",
+            "type": "IC",
+            "predicate": "notices",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth notices Sylvain's abrupt and angry retreat",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:13:38.753Z",
+          "chapterNumber": 32,
+          "action": "created",
+          "memory": {
+            "id": "398e22dd-4d89-46d8-8104-9f2b47b273b4",
+            "type": "WM",
+            "predicate": "displays_anger",
+            "subjects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Sylvain displays anger by abruptly leaving the restaurant",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 61,
+        "activeMemories": 61,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "storeStateAfter": {
+        "totalMemories": 63,
+        "activeMemories": 63,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 33,
+      "startTime": "2025-08-15T04:13:41.112Z",
+      "endTime": "2025-08-15T04:13:46.915Z",
+      "processingTime": 5803,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:13:43.669Z",
+          "chapterNumber": 33,
+          "action": "created",
+          "memory": {
+            "id": "6d2c54a8-628d-487f-8e65-6266d692b156",
+            "type": "IC",
+            "predicate": "confronts",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Sylvain confronts Byleth at Garreg Mach Corp building",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:13:43.671Z",
+          "chapterNumber": 33,
+          "action": "created",
+          "memory": {
+            "id": "c620fcc5-d18d-4f99-90cd-052063226b0f",
+            "type": "WM",
+            "predicate": "seeks_moment",
+            "subjects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Byleth seeks a moment of privacy at Garreg Mach Corp building",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 63,
+        "activeMemories": 63,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "storeStateAfter": {
+        "totalMemories": 65,
+        "activeMemories": 65,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 34,
+      "startTime": "2025-08-15T04:13:46.919Z",
+      "endTime": "2025-08-15T04:13:52.119Z",
+      "processingTime": 5200,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:13:49.349Z",
+          "chapterNumber": 34,
+          "action": "created",
+          "memory": {
+            "id": "71bd7a28-cdc6-4791-bd47-ba7a7f96080e",
+            "type": "IC",
+            "predicate": "demands explanation",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Sylvain demands an explanation from Byleth for the scene with Dimitri",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:13:49.351Z",
+          "chapterNumber": 34,
+          "action": "created",
+          "memory": {
+            "id": "71f41533-af7a-4960-a90d-45750256863b",
+            "type": "IC",
+            "predicate": "has conflict",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Sylvain has a conflict with Byleth, showing anger and hurt",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 65,
+        "activeMemories": 65,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "storeStateAfter": {
+        "totalMemories": 67,
+        "activeMemories": 67,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 35,
+      "startTime": "2025-08-15T04:13:52.124Z",
+      "endTime": "2025-08-15T04:14:06.233Z",
+      "processingTime": 14109,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:13:54.561Z",
+          "chapterNumber": 35,
+          "action": "created",
+          "memory": {
+            "id": "e1677eb8-cfa3-4415-a8da-46cfb3dd06ba",
+            "type": "IC",
+            "predicate": "accuses",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Sylvain accuses Byleth of being secretive",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:13:54.562Z",
+          "chapterNumber": 35,
+          "action": "created",
+          "memory": {
+            "id": "5c900100-36ad-4d68-aff7-1a3206cd7419",
+            "type": "IC",
+            "predicate": "deflects",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth deflects Sylvain's accusations by questioning his possessiveness",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 67,
+        "activeMemories": 67,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "storeStateAfter": {
+        "totalMemories": 69,
+        "activeMemories": 69,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 36,
+      "startTime": "2025-08-15T04:14:06.237Z",
+      "endTime": "2025-08-15T04:14:11.567Z",
+      "processingTime": 5330,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:14:08.997Z",
+          "chapterNumber": 36,
+          "action": "created",
+          "memory": {
+            "id": "959378f7-df63-47ad-bdfc-63a71697dd86",
+            "type": "IC",
+            "predicate": "confuses",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth confuses Sylvain by bringing Annette into the conversation",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:14:08.999Z",
+          "chapterNumber": 36,
+          "action": "created",
+          "memory": {
+            "id": "e13c9bfb-1254-4ed6-b1cd-c35c6b3e8cd7",
+            "type": "IC",
+            "predicate": "suggests",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Dimitri"
+            ],
+            "canonical_fact": "Byleth suggests Dimitri is merely a demanding mentor figure",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 69,
+        "activeMemories": 69,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "storeStateAfter": {
+        "totalMemories": 71,
+        "activeMemories": 71,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 37,
+      "startTime": "2025-08-15T04:14:11.572Z",
+      "endTime": "2025-08-15T04:14:17.120Z",
+      "processingTime": 5548,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:14:14.478Z",
+          "chapterNumber": 37,
+          "action": "created",
+          "memory": {
+            "id": "f19ce3f7-640c-40e7-bb67-e5fd32e7cfc1",
+            "type": "IC",
+            "predicate": "warns",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Sylvain warns Byleth about Dimitri",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:14:14.480Z",
+          "chapterNumber": 37,
+          "action": "created",
+          "memory": {
+            "id": "ffa97c1d-274d-4fdd-a29e-4b92bd2f5a22",
+            "type": "IC",
+            "predicate": "suspects",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Sylvain suspects Byleth",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 71,
+        "activeMemories": 71,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "storeStateAfter": {
+        "totalMemories": 73,
+        "activeMemories": 73,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 38,
+      "startTime": "2025-08-15T04:14:17.125Z",
+      "endTime": "2025-08-15T04:14:20.781Z",
+      "processingTime": 3656,
+      "memoriesExtracted": 1,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:14:18.855Z",
+          "chapterNumber": 38,
+          "action": "created",
+          "memory": {
+            "id": "1fa7220d-9d1a-4edb-8e1d-76266c17eaa6",
+            "type": "WM",
+            "predicate": "health_alert",
+            "subjects": [
+              "Company"
+            ],
+            "canonical_fact": "The company issued a health alert about a novel virus spreading overseas",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:14:18.853Z",
+          "chapterNumber": 38,
+          "action": "created",
+          "entity": {
+            "name": "Company",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 73,
+        "activeMemories": 73,
+        "supersededMemories": 0,
+        "totalEntities": 16
+      },
+      "storeStateAfter": {
+        "totalMemories": 74,
+        "activeMemories": 74,
+        "supersededMemories": 0,
+        "totalEntities": 17
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 39,
+      "startTime": "2025-08-15T04:14:20.785Z",
+      "endTime": "2025-08-15T04:14:26.163Z",
+      "processingTime": 5378,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:14:23.750Z",
+          "chapterNumber": 39,
+          "action": "created",
+          "memory": {
+            "id": "e3b52ac1-30d5-4bf4-9e80-bd9ff6dc2ea6",
+            "type": "IC",
+            "predicate": "dismisses",
+            "subjects": [
+              "Felix"
+            ],
+            "objects": [
+              "Ashe"
+            ],
+            "canonical_fact": "Felix dismisses Ashe's unease about the virus",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:14:23.752Z",
+          "chapterNumber": 39,
+          "action": "created",
+          "memory": {
+            "id": "93b7ba96-068f-4990-a4f4-e1006a68022c",
+            "type": "WM",
+            "predicate": "discusses",
+            "subjects": [
+              "Office"
+            ],
+            "canonical_fact": "The office discusses the virus memo briefly",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:14:23.749Z",
+          "chapterNumber": 39,
+          "action": "created",
+          "entity": {
+            "name": "Ashe",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 74,
+        "activeMemories": 74,
+        "supersededMemories": 0,
+        "totalEntities": 17
+      },
+      "storeStateAfter": {
+        "totalMemories": 76,
+        "activeMemories": 76,
+        "supersededMemories": 0,
+        "totalEntities": 18
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 40,
+      "startTime": "2025-08-15T04:14:26.167Z",
+      "endTime": "2025-08-15T04:14:33.983Z",
+      "processingTime": 7816,
+      "memoriesExtracted": 3,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:14:30.446Z",
+          "chapterNumber": 40,
+          "action": "created",
+          "memory": {
+            "id": "1aa8205d-1ebb-46ee-ba44-ce9a1d8527d7",
+            "type": "IC",
+            "predicate": "shares excitement with",
+            "subjects": [
+              "Annette"
+            ],
+            "objects": [
+              "Byleth",
+              "Mercedes"
+            ],
+            "canonical_fact": "Annette shares her excitement with Byleth and Mercedes about a surprise for Sylvain",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:14:30.449Z",
+          "chapterNumber": 40,
+          "action": "created",
+          "memory": {
+            "id": "8f118c23-80ed-41df-95cc-103aa364099f",
+            "type": "IC",
+            "predicate": "plans surprise for",
+            "subjects": [
+              "Annette"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Annette plans a surprise for Sylvain at a countryside inn",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:14:30.452Z",
+          "chapterNumber": 40,
+          "action": "created",
+          "memory": {
+            "id": "94bced50-3c73-483f-bc6b-9286c9346788",
+            "type": "IC",
+            "predicate": "trusts",
+            "subjects": [
+              "Annette"
+            ],
+            "objects": [
+              "Byleth",
+              "Mercedes"
+            ],
+            "canonical_fact": "Annette trusts Byleth and Mercedes with her surprise plan for Sylvain",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:14:30.443Z",
+          "chapterNumber": 40,
+          "action": "created",
+          "entity": {
+            "name": "Mercedes",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 76,
+        "activeMemories": 76,
+        "supersededMemories": 0,
+        "totalEntities": 18
+      },
+      "storeStateAfter": {
+        "totalMemories": 79,
+        "activeMemories": 79,
+        "supersededMemories": 0,
+        "totalEntities": 19
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 41,
+      "startTime": "2025-08-15T04:14:33.987Z",
+      "endTime": "2025-08-15T04:14:39.517Z",
+      "processingTime": 5530,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:14:37.278Z",
+          "chapterNumber": 41,
+          "action": "created",
+          "memory": {
+            "id": "5c00d504-86ed-4c24-bbb6-5ce3cd25f05c",
+            "type": "IC",
+            "predicate": "entrusts",
+            "subjects": [
+              "Annette"
+            ],
+            "objects": [
+              "Byleth",
+              "Mercedes"
+            ],
+            "canonical_fact": "Annette entrusts Byleth and Mercedes with keeping her romantic getaway a secret from Sylvain",
+            "confidence": 0.9
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:14:37.280Z",
+          "chapterNumber": 41,
+          "action": "created",
+          "memory": {
+            "id": "dfa23df8-f0ef-4d42-8f59-aaef7ca81ca7",
+            "type": "IC",
+            "predicate": "assures",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Annette"
+            ],
+            "canonical_fact": "Byleth assures Annette that the secret is safe",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 79,
+        "activeMemories": 79,
+        "supersededMemories": 0,
+        "totalEntities": 19
+      },
+      "storeStateAfter": {
+        "totalMemories": 81,
+        "activeMemories": 81,
+        "supersededMemories": 0,
+        "totalEntities": 19
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 42,
+      "startTime": "2025-08-15T04:14:39.523Z",
+      "endTime": "2025-08-15T04:14:45.249Z",
+      "processingTime": 5726,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:14:42.650Z",
+          "chapterNumber": 42,
+          "action": "created",
+          "memory": {
+            "id": "1fbaf794-98be-4a71-8528-142869a9ac18",
+            "type": "IC",
+            "predicate": "requests_help",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth requests Sylvain's help with a systems integration problem",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:14:42.653Z",
+          "chapterNumber": 42,
+          "action": "created",
+          "memory": {
+            "id": "3d741369-c809-43e0-b450-0992d2185bdc",
+            "type": "WM",
+            "predicate": "conflict_with_event",
+            "subjects": [
+              "Annette's Planned Surprise"
+            ],
+            "canonical_fact": "The timing of Byleth's request conflicts with Annette's planned surprise",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:14:42.651Z",
+          "chapterNumber": 42,
+          "action": "created",
+          "entity": {
+            "name": "Annette's Planned Surprise",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 81,
+        "activeMemories": 81,
+        "supersededMemories": 0,
+        "totalEntities": 19
+      },
+      "storeStateAfter": {
+        "totalMemories": 83,
+        "activeMemories": 83,
+        "supersededMemories": 0,
+        "totalEntities": 20
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 43,
+      "startTime": "2025-08-15T04:14:45.253Z",
+      "endTime": "2025-08-15T04:14:50.513Z",
+      "processingTime": 5260,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:14:47.886Z",
+          "chapterNumber": 43,
+          "action": "created",
+          "memory": {
+            "id": "33bd02b8-c6a9-40c8-9df2-cda2ad507f53",
+            "type": "IC",
+            "predicate": "flattering",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth flatters Sylvain to ensure his involvement",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:14:47.888Z",
+          "chapterNumber": 43,
+          "action": "created",
+          "memory": {
+            "id": "3ef6d42b-e52a-4d64-bff4-e4f176a45674",
+            "type": "IC",
+            "predicate": "tension_with",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Sylvain has recent tension with Byleth",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 83,
+        "activeMemories": 83,
+        "supersededMemories": 0,
+        "totalEntities": 20
+      },
+      "storeStateAfter": {
+        "totalMemories": 85,
+        "activeMemories": 85,
+        "supersededMemories": 0,
+        "totalEntities": 20
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 44,
+      "startTime": "2025-08-15T04:14:50.518Z",
+      "endTime": "2025-08-15T04:14:55.384Z",
+      "processingTime": 4866,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:14:53.218Z",
+          "chapterNumber": 44,
+          "action": "created",
+          "memory": {
+            "id": "0508fa4e-a2fc-42b7-a757-7697a72d1c95",
+            "type": "IC",
+            "predicate": "agrees_to_help",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Sylvain agrees to help Byleth by clearing his weekend schedule",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:14:53.221Z",
+          "chapterNumber": 44,
+          "action": "created",
+          "memory": {
+            "id": "bda2e411-d7ba-49fb-88a9-4c3f036d9795",
+            "type": "WM",
+            "predicate": "sabotage_stage_complete",
+            "subjects": [
+              "Byleth"
+            ],
+            "canonical_fact": "Stage one of the sabotage is complete",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 85,
+        "activeMemories": 85,
+        "supersededMemories": 0,
+        "totalEntities": 20
+      },
+      "storeStateAfter": {
+        "totalMemories": 87,
+        "activeMemories": 87,
+        "supersededMemories": 0,
+        "totalEntities": 20
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 45,
+      "startTime": "2025-08-15T04:14:55.389Z",
+      "endTime": "2025-08-15T04:15:01.312Z",
+      "processingTime": 5923,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:14:57.529Z",
+          "chapterNumber": 45,
+          "action": "created",
+          "memory": {
+            "id": "b9f55f94-8438-4110-b460-d2c17813f516",
+            "type": "IC",
+            "predicate": "apologizes",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Annette"
+            ],
+            "canonical_fact": "Sylvain apologizes to Annette for being unavailable due to work",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:14:57.532Z",
+          "chapterNumber": 45,
+          "action": "created",
+          "memory": {
+            "id": "422790e0-6c52-4dba-a3c7-0d6969994e35",
+            "type": "IC",
+            "predicate": "lies",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Annette"
+            ],
+            "canonical_fact": "Sylvain lies to Annette about a work crisis",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 87,
+        "activeMemories": 87,
+        "supersededMemories": 0,
+        "totalEntities": 20
+      },
+      "storeStateAfter": {
+        "totalMemories": 89,
+        "activeMemories": 89,
+        "supersededMemories": 0,
+        "totalEntities": 20
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 46,
+      "startTime": "2025-08-15T04:15:01.316Z",
+      "endTime": "2025-08-15T04:15:04.497Z",
+      "processingTime": 3181,
+      "memoriesExtracted": 1,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:15:02.839Z",
+          "chapterNumber": 46,
+          "action": "created",
+          "memory": {
+            "id": "5374bd64-1a4e-4930-8cd5-e740547049b8",
+            "type": "IC",
+            "predicate": "feels disappointed by",
+            "subjects": [
+              "Annette"
+            ],
+            "objects": [
+              "Unnamed Caller"
+            ],
+            "canonical_fact": "Annette feels disappointed by the Unnamed Caller",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:15:02.837Z",
+          "chapterNumber": 46,
+          "action": "created",
+          "entity": {
+            "name": "Unnamed Caller",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 89,
+        "activeMemories": 89,
+        "supersededMemories": 0,
+        "totalEntities": 20
+      },
+      "storeStateAfter": {
+        "totalMemories": 90,
+        "activeMemories": 90,
+        "supersededMemories": 0,
+        "totalEntities": 21
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 47,
+      "startTime": "2025-08-15T04:15:04.502Z",
+      "endTime": "2025-08-15T04:15:08.812Z",
+      "processingTime": 4310,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:15:06.631Z",
+          "chapterNumber": 47,
+          "action": "created",
+          "memory": {
+            "id": "6a1faccd-37da-47f0-8b77-b52afa7b1a5d",
+            "type": "IC",
+            "predicate": "shares secret plan",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth shares a secret plan with Sylvain for a weekend rendezvous",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 90,
+        "activeMemories": 90,
+        "supersededMemories": 0,
+        "totalEntities": 21
+      },
+      "storeStateAfter": {
+        "totalMemories": 91,
+        "activeMemories": 91,
+        "supersededMemories": 0,
+        "totalEntities": 21
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 48,
+      "startTime": "2025-08-15T04:15:08.818Z",
+      "endTime": "2025-08-15T04:15:15.363Z",
+      "processingTime": 6545,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:15:12.610Z",
+          "chapterNumber": 48,
+          "action": "created",
+          "memory": {
+            "id": "4120e00f-4733-4297-808b-125a7ab43f31",
+            "type": "IC",
+            "predicate": "engages in affair",
+            "subjects": [
+              "Byleth"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Byleth and Sylvain engage in a secret affair",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:15:12.613Z",
+          "chapterNumber": 48,
+          "action": "created",
+          "memory": {
+            "id": "5d3ded26-c843-41dd-9f4b-765a4d3ad3a4",
+            "type": "WM",
+            "predicate": "hosts secret meeting",
+            "subjects": [
+              "Discreet Hotel"
+            ],
+            "canonical_fact": "The discreet hotel hosts a secret meeting between Byleth and Sylvain",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [
+        {
+          "timestamp": "2025-08-15T04:15:12.612Z",
+          "chapterNumber": 48,
+          "action": "created",
+          "entity": {
+            "name": "Discreet Hotel",
+            "kind": "character"
+          }
+        }
+      ],
+      "storeStateBefore": {
+        "totalMemories": 91,
+        "activeMemories": 91,
+        "supersededMemories": 0,
+        "totalEntities": 21
+      },
+      "storeStateAfter": {
+        "totalMemories": 93,
+        "activeMemories": 93,
+        "supersededMemories": 0,
+        "totalEntities": 22
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 49,
+      "startTime": "2025-08-15T04:15:15.370Z",
+      "endTime": "2025-08-15T04:15:28.819Z",
+      "processingTime": 13449,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:15:20.638Z",
+          "chapterNumber": 49,
+          "action": "created",
+          "memory": {
+            "id": "2168dd1b-7cc6-48be-baa6-ead8878208c0",
+            "type": "IC",
+            "predicate": "cancels_trip_with",
+            "subjects": [
+              "Sylvain"
+            ],
+            "objects": [
+              "Annette"
+            ],
+            "canonical_fact": "Sylvain cancels a trip with Annette for work",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:15:20.640Z",
+          "chapterNumber": 49,
+          "action": "created",
+          "memory": {
+            "id": "9d31e3c7-3ebf-4465-9150-410ec7b9e59f",
+            "type": "IC",
+            "predicate": "expresses_surprise_about",
+            "subjects": [
+              "Mercedes"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Mercedes expresses surprise about Sylvain's work crisis",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 93,
+        "activeMemories": 93,
+        "supersededMemories": 0,
+        "totalEntities": 22
+      },
+      "storeStateAfter": {
+        "totalMemories": 95,
+        "activeMemories": 95,
+        "supersededMemories": 0,
+        "totalEntities": 22
+      },
+      "errors": []
+    },
+    {
+      "chapterNumber": 50,
+      "startTime": "2025-08-15T04:15:28.825Z",
+      "endTime": "2025-08-15T04:15:33.185Z",
+      "processingTime": 4360,
+      "memoriesExtracted": 2,
+      "memoryChanges": [
+        {
+          "timestamp": "2025-08-15T04:15:31.047Z",
+          "chapterNumber": 50,
+          "action": "created",
+          "memory": {
+            "id": "c5a7e3f2-11fc-4a64-8995-8b437a6458dd",
+            "type": "IC",
+            "predicate": "plants_doubt",
+            "subjects": [
+              "Mercedes"
+            ],
+            "objects": [
+              "Annette"
+            ],
+            "canonical_fact": "Mercedes plants doubt in Annette's mind",
+            "confidence": 0.8
+          }
+        },
+        {
+          "timestamp": "2025-08-15T04:15:31.049Z",
+          "chapterNumber": 50,
+          "action": "created",
+          "memory": {
+            "id": "6639533f-92e0-49b7-9136-7df4f506a220",
+            "type": "IC",
+            "predicate": "suspects",
+            "subjects": [
+              "Annette"
+            ],
+            "objects": [
+              "Sylvain"
+            ],
+            "canonical_fact": "Annette suspects Sylvain might have lied",
+            "confidence": 0.8
+          }
+        }
+      ],
+      "entityChanges": [],
+      "storeStateBefore": {
+        "totalMemories": 95,
+        "activeMemories": 95,
+        "supersededMemories": 0,
+        "totalEntities": 22
+      },
+      "storeStateAfter": {
+        "totalMemories": 97,
+        "activeMemories": 97,
+        "supersededMemories": 0,
+        "totalEntities": 22
+      },
+      "errors": []
+    }
+  ],
+  "summary": {
+    "totalMemoriesCreated": 97,
+    "totalMemoriesSuperseded": 2,
+    "totalDuplicatesSkipped": 0,
+    "totalEntitiesCreated": 20,
+    "totalErrors": 0,
+    "conflictPatterns": [],
+    "entityGrowth": [
+      {
+        "chapter": 1,
+        "totalEntities": 6,
+        "newEntities": 4,
+        "entityNames": [
+          "Byleth Eisner",
+          "Dimitri",
+          "Sylvain",
+          "Felix"
+        ]
+      },
+      {
+        "chapter": 2,
+        "totalEntities": 7,
+        "newEntities": 1,
+        "entityNames": [
+          "Annette"
+        ]
+      },
+      {
+        "chapter": 3,
+        "totalEntities": 8,
+        "newEntities": 1,
+        "entityNames": [
+          "Byleth"
+        ]
+      },
+      {
+        "chapter": 5,
+        "totalEntities": 9,
+        "newEntities": 1,
+        "entityNames": [
+          "Office"
+        ]
+      },
+      {
+        "chapter": 7,
+        "totalEntities": 10,
+        "newEntities": 1,
+        "entityNames": [
+          "Corporate Building"
+        ]
+      },
+      {
+        "chapter": 9,
+        "totalEntities": 11,
+        "newEntities": 1,
+        "entityNames": [
+          "Dedue"
+        ]
+      },
+      {
+        "chapter": 12,
+        "totalEntities": 12,
+        "newEntities": 1,
+        "entityNames": [
+          "Mask"
+        ]
+      },
+      {
+        "chapter": 15,
+        "totalEntities": 13,
+        "newEntities": 1,
+        "entityNames": [
+          "The Lost Saint"
+        ]
+      },
+      {
+        "chapter": 19,
+        "totalEntities": 14,
+        "newEntities": 1,
+        "entityNames": [
+          "Unnamed Partner"
+        ]
+      },
+      {
+        "chapter": 24,
+        "totalEntities": 15,
+        "newEntities": 1,
+        "entityNames": [
+          "Dimitri's Home"
+        ]
+      },
+      {
+        "chapter": 29,
+        "totalEntities": 16,
+        "newEntities": 1,
+        "entityNames": [
+          "La Maison"
+        ]
+      },
+      {
+        "chapter": 38,
+        "totalEntities": 17,
+        "newEntities": 1,
+        "entityNames": [
+          "Company"
+        ]
+      },
+      {
+        "chapter": 39,
+        "totalEntities": 18,
+        "newEntities": 1,
+        "entityNames": [
+          "Ashe"
+        ]
+      },
+      {
+        "chapter": 40,
+        "totalEntities": 19,
+        "newEntities": 1,
+        "entityNames": [
+          "Mercedes"
+        ]
+      },
+      {
+        "chapter": 42,
+        "totalEntities": 20,
+        "newEntities": 1,
+        "entityNames": [
+          "Annette's Planned Surprise"
+        ]
+      },
+      {
+        "chapter": 46,
+        "totalEntities": 21,
+        "newEntities": 1,
+        "entityNames": [
+          "Unnamed Caller"
+        ]
+      },
+      {
+        "chapter": 48,
+        "totalEntities": 22,
+        "newEntities": 1,
+        "entityNames": [
+          "Discreet Hotel"
+        ]
+      }
+    ]
+  }
+}
