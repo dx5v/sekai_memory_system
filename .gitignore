@@ -49,3 +49,9 @@ playwright-report/
 # Spec workflow (keep specs but ignore approval states)
 .spec-workflow/approvals/
 .spec-workflow/temp/
+
+# Claude AI files
+.claude/
+
+# Evaluation results (large file)
+evaluation_results.json
